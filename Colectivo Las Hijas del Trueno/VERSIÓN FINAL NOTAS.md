@@ -66,7 +66,7 @@ Actividades:
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:** 
+**Iconos:** L
 
 **Banderas:**
 
