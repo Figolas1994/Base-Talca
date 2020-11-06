@@ -40,6 +40,9 @@ Publicaciones: La frecuancia de las publicaciones son semanales de forma continu
 
 Actividades:
 
+| |![imagen2](Imagenes/9.jpg)
+| |![imagen2](Imagenes/12.jpg)
+| |![imagen2](Imagenes/11.jpg)
 ---
 ### Ubicación
 * Centro de Talca y sector costanera.
@@ -66,11 +69,13 @@ Actividades:
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:** L
+**Iconos:** 
+| |![imagen2](Imagenes/2.jpg)
+| |![imagen2](Imagenes/13.jpg)
 
 **Banderas:**
 
-**Diseño estético:**
+**Diseño estético**
 
 > Párrafo tipo cita 
 
@@ -90,8 +95,10 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen](Imagenes/1.jpg) |
-| |![imagen2](Imagenes/2.jpg)
+|Anotar los comunicados | ![imagen]() 
+) |
+
+
 
 
 ---
