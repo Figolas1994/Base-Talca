@@ -1,70 +1,72 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: TAL10
 # Resistencia Musical
 
 [instagram](https://www.instagram.com/resistencia_musical/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/Resistenciamusicaltalca/)
+
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se identifica
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Talca resiste, Talca lucha
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|mural de fotografía|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| #resistencia_musical #musicostalquinos
+|1376|287|164| #resistencia_musical #musicostalquinos
 #talcalucha #renunciapiñera #musicostalquinos
 #talcalucha #renunciapiñera #instatalca #talca #chile #chiledespertó #instachile #resistencia_musical #querenuncientodos
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   continua
 
-* Primera Publicación IG
+* Primera Publicación IG 16/12/2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: En sus inicios 2 a 3 semanales/ En periodo de pandemia todos los días durante de Abril-Mayo- Junio. Luego semanal.
 
-Actividades:
+Actividades: De 3 a 4 semanales. En periodo de pandemia. Todos los dias abril y mayo (plataformas de video llamada) luego mensuales
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza el pentagono, plaza de armas/ Talca en general. 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Colectivo musical sus intereses son la apropiación del espacio publico y comunicación.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
-
+#### "Hasta que la dignidad se haga costumbre" "El pueblo ayuda al pueblo" "nueva constitucion" 
 ---
 ### ¿Que se hace?
 #### 
+- Convocatoria a protestar con instrumentos musicales, 
+- Comunicación: entrevistas a ciudadano por live de redes sociales/ durante la pandemia personajes icónicos de las marchas.
+- Acompañamiento y colaboración en acciones solidarias (entrega de alimentos)
 ![imagen](2.png)
 ![imagen](4.png)
 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Transformación cotidiana del uso del espacio publico 
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Vocería.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -81,12 +83,12 @@ Actividades:
 ![imagen](1.png)
 ![imagen](3.png)
 
-> Párrafo tipo cita 
+> El material compartido mantiene una línea de diseño. Resaltando la figura del perro mata pacos y los colores rojo y negro.
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> No se identifica.
 
 | Declaraciones | infografía | 
 |---|---|
@@ -95,7 +97,7 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> Solo se identifica repudio a la institucion de carabineros
 
 | Declaraciones | infografía | 
 |---|---|

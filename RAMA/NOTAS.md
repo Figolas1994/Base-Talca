@@ -60,21 +60,26 @@ Actividades: cada una o dos semanas aprox.
 
 ---
 ### ¿Que se hace?
-#### Coordina reuniones regionales de organizaciones medioambientales, genera contenido de auto educación a través de sus rrss. Actividades de economía local como feria de truques. Convoca a marchas.
+#### 
+- Coordina reuniones regionales de organizaciones medioambientales, 
+- genera contenido de auto educación a través de sus rrss. 
+- Actividades de economía local como feria de truques. 
+- Convoca a marchas.
 
 ![imagen](3.png)
 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### No mas TPP
+#### 
+- No mas TPP
  - No a las mineras en la region del Meule. 
 
 ![imagen]()
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad. Trabajo por comisiones
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -89,7 +94,7 @@ Actividades: cada una o dos semanas aprox.
 ![imagen](4.png)
 
 
-> Párrafo tipo cita 
+>  La organización mantiene un diseño estético
 
 ---
 ### Percepciones que se tiene del Estado
@@ -103,7 +108,7 @@ Actividades: cada una o dos semanas aprox.
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+>No se identifica.
 
 | Declaraciones | infografía | 
 |---|---|
