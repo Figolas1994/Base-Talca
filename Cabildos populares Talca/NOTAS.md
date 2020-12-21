@@ -1,65 +1,72 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO:TAL29
 # Cabildos populares Talca
 
 [instagram](https://www.instagram.com/cabildospopularestalca/)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<cabildospopularestalca@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### 
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Mesa unidad social, No mas AFP Talca, coordinadora sur poniente. 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información|Difusión de información|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|681|766|38| #ChileDesperto #TalcaDesperto #CabildoPopular #Talca #AsambleaTerritorial
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Incativa
 
-* Primera Publicación IG
+* Primera Publicación IG 16/11/2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones:Cada dos dias en los meses de noviembre y diciembre del 2019
 
-Actividades:
+Actividades: No se registraron actividades concretas. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Talca en general
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización territorial interesado en la participación ciudadana y el proceso constituyente.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Movilizados(as) por la necesidad de construir un Chile más justo"
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-
+#### Difusión de información a través de afiches por redes sociales que contenían fecha lugar y temática de los cabildos. Sistematizaciones de informaciones recopilada en los cabildos, esta última no fue compartida en la red social. 
+####  -creación de material educativo: pauta  organizativa
+![imagen](c1.png)
+![imagen](c2.png)
+![imagen](c3.png)
+![imagen](c4.png)
+![imagen](c5.png)
+![imagen](c6.png)
+![imagen](c7.png)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Transformación cotidiana del vivir en el barrio.
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad. Se distingue un trabajo por comisiones las últimas actividades
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -69,13 +76,17 @@ Actividades:
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](4.png)
+![imagen](2.png)
+![imagen](3.png)
 
 > Párrafo tipo cita 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> El material compartido mantiene una línea de diseño. Resaltando la figura la pobladores organizados 
 
 | Declaraciones | infografía | 
 |---|---|

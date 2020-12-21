@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #apruebo #renunciapiñera #mañalichrenuncia #cuarentenatotal #talca #plazadeladignidad #primeralinea #estallidosocial #nomasdictadura #volveremos #instachile #chile #pacoasesinos #acab #fotografia #paco #protestaschile  #pacosculiaos #antiyuta #terrorismodeestado #latvmiente #ESTONOHATERMINADO #matapacos #chiledesperto #sipoapruebo #enchileseviolanlosddhh #talcagram #instalca #chiledesperto #1312#ambar #justiciaparaambar #chile #chilegram #talca #acab #love #follow #primeralinea #santiago #chilenas #instagram #photooftheday #nature #renunciapiñera #instatalca #talcagram #talcacity
 
 ---
 
@@ -51,7 +51,9 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+![imagen](1.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -65,10 +67,19 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](2.png)
+![imagen](logo.png)
+![imagen](neco.png)
 
 **Banderas:**
-
+![imagen](bandera.png)
+![imagen](lien.png)
+![imagen](5.png)
 **Diseño estético:**
+![imagen](3.png)
+![imagen](7.png)
+![imagen](aprue.png)
+
 
 > Párrafo tipo cita 
 
@@ -88,7 +99,8 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](8.png)
+![imagen](paco.png) |
 
 
 ---

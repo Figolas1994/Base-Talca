@@ -1,57 +1,58 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: TAL23
+# Organicemos Dignidad Talca. 
 
-[instagram]()
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[instagram](https://www.instagram.com/organicemosdignidad.talca/)
+[facebook](https://www.facebook.com/organicemosdignidad.talca)
+
+<talca.orgdignidad@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
-
+#### FRANCISCA ROJAS BRAVO
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Talca resiste.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas||| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|272|227|18| #SoloElPuebloAyudaAlPueblo #nuevaconstitucion
+#organicemosdignidad
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Inactiva 
 
-* Primera Publicación IG
+* Primera Publicación IG: 22/05/2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Publicaciones semanales hasta el mes de julio
 
-Actividades:
+Actividades: semanales hasta Julio de 2020 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Lider 9 oriente/ CREA 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Red de voluntarios de nivel nacional que se enfoca en la ayuda alimentaria para vecinos afectados por la crisis socio-sanitaria y educación popular.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### ¡DEFENDER EL PUEBLO HASTA VENCER ! "Solo el pueblo ayuda al pueblo" 
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Campañas solidarias de alimentos y útiles de aseo.
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -59,7 +60,7 @@ Actividades:
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo. No de distingue su estructura organizativa.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -70,12 +71,15 @@ Actividades:
 
 **Diseño estético:**
 
-> Párrafo tipo cita 
+![imagen](1.png) 
+![imagen](2.png)
+
+> El diseño estético proviene de las bases centrales ya que es una organización que se gestiono en distintas ciudades del país. 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+>  No se identifica
 
 | Declaraciones | infografía | 
 |---|---|
@@ -84,7 +88,7 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> No se identifica
 
 | Declaraciones | infografía | 
 |---|---|
@@ -92,4 +96,4 @@ Actividades:
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Link Video [Instagram](https://www.instagram.com/p/CCJiXVIpX4L/)

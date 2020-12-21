@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #talcaluchandoenpedales✊🇨🇱✊ #talcalucha #talcaresiste #elpueblounidojamasseravencido #yoapruebonuevaconstitución #talcabike
 
 ---
 
@@ -36,7 +36,7 @@
 
 Publicaciones:
 
-Actividades:
+Actividades: Todos los miercoles y domingos hasta marzo. Se retoma en octubre de forma intermitente. 
 
 ---
 ### Ubicación
@@ -51,7 +51,10 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+![imagen](1.png)
+![imagen](33.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -65,10 +68,17 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](1.jpg)
+
+
 
 **Banderas:**
 
 **Diseño estético:**
+![imagen](2.png)
+![imagen](3.png)
+![imagen](4.png)
+
 
 > Párrafo tipo cita 
 

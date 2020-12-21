@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: TAL14 
+# Red de Feministas del Maule.
 
-[instagram]()
-[facebook]()
+[instagram](https://www.instagram.com/femmaule_/)
+[facebook](https://www.facebook.com/FemMaule-104604064393691)
 [twitter]()
-<correo@correo.cl>
+<feministasdelmaule@gmail.com>
 ---
 
 ### Representantes
@@ -12,70 +12,83 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Colectivo Hijas del trueno, Colectivo feminista Talca resiste, Asamblea diversidad territorial
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|Difusión de información y actividades|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|482|343|83| #FeministasdelMauleporelapruebo #apruebo #cc #educacionsexualintegral 
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
 
-* Primera Publicación IG
+* Primera Publicación IG 28/09/2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Diarias
 
-Actividades:
+Actividades: actividades 1 vez por semana aproximadamente 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Talca en general.
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización territorial, realizas reuniones a nivel regional, interesada en el feminismo, proceso constituyente, educación sexual entre otros. Genera contra información
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Destacan la "abolición de una estructura patriarcal y capitalista que produce y reproduce relaciones de poder desiguales entre hombres" Consignas: "Nunca más sin Nosotras” y “Por una Constitución Feminista”
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Conversatorios online, 
+- reuniones online, 
+- pega de volantes informativos en paredes publicas.
+![imagen](2.png)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Dirigida a mujeres, disidencias y colectivos de la región del Maule. Emplaza a la institución de carabineros y autoridades de gobierno/ Red y union feminista y disidentes 
+![imagen](comu1.png)
+![imagen](comu2.png)
+![imagen](comu3.png)
+![imagen](comu4.png)
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo, trabajo por comisiones
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](apruebo.png)
 
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](3.png)
+
+
 
 > Párrafo tipo cita 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> Estado idolente. 
 
 | Declaraciones | infografía | 
 |---|---|
@@ -84,11 +97,11 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> repudio al actuar de carabineros de chile
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](paco1.jpg) ![imagen](paco2.jpg) ![imagen](paco3.jpg) ![imagen](paco4.jpg)|
 
 
 ---

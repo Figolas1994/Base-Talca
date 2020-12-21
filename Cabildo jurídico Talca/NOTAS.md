@@ -1,4 +1,4 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: TAL 26
 # Cabildo jurídico Talca
 
 [instagram](https://www.instagram.com/cabildojuridicotalca/)
@@ -12,46 +12,50 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+
+#### Coordinadora sur poniente, Madriguera.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y difusión de actividades|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|208|167|14| 
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Inactiva 
 
-* Primera Publicación IG
+* Primera Publicación IG 28/11/2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: publicaciones semanales hasta diciembre 2019.  
 
-Actividades:
+Actividades: En su periodo activo cada dos semanas 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza Las Heras/ U. Talca 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización territorial conformados por estudiantes y profesionales de derecho interesado en el proceso de participación ciudadana.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Consignas: "A ganar una constituyente para todas y todos" ¡ES EL MOMENTO PARA QUE TU VOZ SE ESCUCHE!
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Cabildos 
+- Conversatorios. 
+- Confección de material informativo.
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -59,7 +63,7 @@ Actividades:
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Horizontalidad.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -69,8 +73,12 @@ Actividades:
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](2.png)
+![imagen](3.png)
+![imagen](4.png)
 
-> Párrafo tipo cita 
+> Los diseños se realizaron por la plataforma Canvas. No existen colores o iconografía representativa  
 
 ---
 ### Percepciones que se tiene del Estado

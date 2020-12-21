@@ -1,5 +1,5 @@
 #### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# Olla común Talca
+# Olla común Talca F. Cinco y puño
 
 [instagram](https://www.instagram.com/ollacomuntalca/)
 [facebook]()
@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #olla #todoslosdomingos la #tradicioncontinua #talca #olla #comun #ayuda
 
 ---
 
@@ -36,11 +36,12 @@
 
 Publicaciones:
 
-Actividades:
+Actividades: Todos los domingos. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sector abate molina
+Costanera y estacion
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -51,7 +52,8 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+![imagen](4.png) 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -69,6 +71,10 @@ Actividades:
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](2.png)
+![imagen](3.png)
+
 
 > Párrafo tipo cita 
 

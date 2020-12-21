@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #RenunciaPiñera #ChileDesperto #TalcaAprueba #AsambleaConstituyente #TalcaResiste #HastaQueLaDignidadSeHagaCostumbre #YoMeQuedoEnCasa #quedateencasa #live #cuarentenatotal #renunciamañalich
 
 ---
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -64,11 +64,17 @@ Actividades:
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
-
+**Iconos:** 
+![imagen](jara.png)
+![imagen](3.png)
+![imagen](4.png)
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](2.png)
+![imagen](apru.png)
+![imagen](web.png)
 
 > Párrafo tipo cita 
 
@@ -79,7 +85,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|Anotar los comunicados | ![imagen](Estado.png) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -88,8 +94,12 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](carab.png) |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### ### Video ¿Quién es Talca resiste? [link Instagram](https://www.instagram.com/p/B59IREvpiK-/)
+![imagen](1.jpg)
+![imagen](covid.png)
+![imagen](estado.png)
+![imagen](funa1.png)

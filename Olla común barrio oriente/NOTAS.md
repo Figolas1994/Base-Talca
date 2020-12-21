@@ -1,4 +1,4 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### TAL13
 # Olla común barrio oriente 
 
 [instagram](https://www.instagram.com/ollacomun.barrio.oriente/)
@@ -8,58 +8,66 @@
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se identifican. 
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Olla común Padre Hurtado, Colectivo arriba las que luchan, Olla itinerante, Talca resiste
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|347|98|21| #justiciaparamacarenavaldes #wallmapulibre #hastaquerenunciepiñera #soloelpuebloayudaalpueblo #ollacomun #renunciapiñera #ollacomun #organizate #apoyomutuo #solidaridad
+
+
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua desde Junio 2020
 
-* Primera Publicación IG
+* Primera Publicación IG 24/06/2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales, de 2 a 3 de junio a agosto. 1 semanal desde septiembre
 
-Actividades:
+Actividades: Todos los domingos. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad:Barrio Oriente
 
 ---
 ### Describir temas de interés y/o trabajo
+#### Se enfoca en la ayuda alimentaria para vecinos afectados por la crisis socio-sanitaria y educación popular.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "El pueblo ayuda al pueblo" "Organización y autogestión" "Entre todos nos educamos entre todos nos cuidamos" Nueva constitución / Justicia para Macarena Valdes 
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Entrega de alimentos y boletines informativos.
+![imagen](1.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
+![imagen](2.png)
+![imagen](4.png)
+
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontal, no entrega mas información.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -70,7 +78,7 @@ Actividades:
 
 **Diseño estético:**
 
-> Párrafo tipo cita 
+> No muestra una estica e iconografia propia. 
 
 ---
 ### Percepciones que se tiene del Estado

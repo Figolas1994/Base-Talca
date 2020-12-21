@@ -51,11 +51,15 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+![imagen](2.png)
+
+### Intervencíon [Instagram](https://www.instagram.com/p/B51gVggp02o/)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### 
+![imagen](3.png)
 
 ---
 ### Tipo de organización interna.
@@ -65,6 +69,7 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](1.png)
 
 **Banderas:**
 
@@ -92,4 +97,4 @@ Actividades:
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Video Mata paco [Instagram](https://www.instagram.com/p/B8kI3MHpU4S/)

@@ -23,7 +23,10 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #sipoapruebo #chiledesperto #chile #hastaqueladignidadsehagacostumbre #talca #instatalca #convencionconstituyente #26abrilYoApruebo+CC #AguanteVALPO
+#TalcaLucha #SINJUSTICIANOHAYFUTBOL 
+#nomassename #soschile
+#chiledesperto #quedateencasa #covid19chile
 
 ---
 
@@ -65,12 +68,25 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](logo.png) 
+![imagen](logo2.png)
+![imagen](logo3.png)
+![imagen](mapu.png)
+![imagen](neco.png)
 
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](2.png)
+![imagen](3.png)
 
-> Párrafo tipo cita 
+
+
+
+> El logo cambia y adapta sus colores en conmemoración a días especiales 
+> 
+> 
 
 ---
 ### Percepciones que se tiene del Estado
@@ -88,8 +104,11 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen]()
+[Video Instagram](https://www.instagram.com/p/B74Gq4FJe4F/) |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Saludos Roberto Marquéz: Link video [instagram](8https://www.instagram.com/p/CHPAwYbgJtR/)
+![imagen](Comu1.jpg)
+

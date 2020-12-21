@@ -18,12 +18,14 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|mural de fotografía|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #resistencia_musical #musicostalquinos
+#talcalucha #renunciapiñera #musicostalquinos
+#talcalucha #renunciapiñera #instatalca #talca #chile #chiledespertó #instachile #resistencia_musical #querenuncientodos
 
 ---
 
@@ -51,7 +53,10 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+![imagen](2.png)
+![imagen](4.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -65,10 +70,16 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](6.png)
+![imagen](logo.png)
+![imagen](mapu.png)
+
 
 **Banderas:**
 
 **Diseño estético:**
+![imagen](1.png)
+![imagen](3.png)
 
 > Párrafo tipo cita 
 
@@ -92,4 +103,4 @@ Actividades:
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Video Jorge González [Instagram](https://www.instagram.com/p/B9fBTPRpRoN/)

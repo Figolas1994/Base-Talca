@@ -1,76 +1,91 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+
+#### FOLIO: TAL12
 # EPC nuetras Americas
 
 [instagram](https://www.instagram.com/epc_nuestraamerica/)
-[facebook]()
+[facebook](https://www.facebook.com/nuestraamericaepc)
 [twitter]()
-<correo@correo.cl>
+<epc.nuestraamerica@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### Gabriel Peñaloza Telefono: 96655245
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Vivas nos queremos Talca, Talca resiste, Coordinadora feminista 8M, revolución séptima, olla común Padre Hurtado. 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1169|804|148| 0
 
 ---
 
-* **Actividad:**   
-
-* Primera Publicación IG
+* **Actividad:** Continua. En el periodo de pandemia trabajo con la olla común padre hurtado gestionando la olla junto a la junta de vecinos   
+* Primera Publicación IG 14/09/2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales
 
-Actividades:
+Actividades: Semanales como EPC y diarias en la  olla común.
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sector Las Americas. 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+Organización territorial interesada en la auto educación popular, actividades solidarias y comunicación. Abordan temáticas de contingencia nacional como conflicto mapuche, violencia policial, crisis socio sanitaria entre otros.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Por una educación que nos enseñe a pensar y no obedecer" "Existirá espacio para cuidado de niñas/os para que no existan excusas ¡Por un feminismo popular!" "Solo el pueblo ayuda al pueblo" 
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Impulsores de una escuela popular para la obtención de 4to medio laboral.
+- Activadas solidarias como acopio de ropa para niños y rifas a beneficios (junto a otras organizaciones como revolucion septima o Junta de vecinos padre hurtado). 
+- Medio de comunicación: podcast subidos a Spotify. 
+- Conversatorios de educación popular y encuentros de mujeres.
+- Colaboración en olla común Padre Hurtado.  
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Transformacion cotidiana de vivir en la poblacion y comunidad. 
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Trabajos por comisiones
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** 
+![imagen](1.png)
+![imagen](icono.png)
+![imagen](ojo.png)
+
+
 
 **Banderas:**
+![imagen](icono2.png)
+
 
 **Diseño estético:**
+![imagen](olla.png)
+![imagen](voces.png)
+![imagen](vocescambio.png)
 
-> Párrafo tipo cita 
+>  Resaltan la geografia de Latinoamitica. Utilian de fondo ojos y la flor del canelo. Colores a destacar son rojo y negro
 
 ---
 ### Percepciones que se tiene del Estado
@@ -79,7 +94,10 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|Anotar los comunicados | ![imagen](Estado.png)
+![imagen](Estado1.jpg)
+![imagen](Estado1.2.jpg) 
+|
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

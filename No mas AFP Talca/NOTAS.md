@@ -1,5 +1,5 @@
 #### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+# No mas AFP Talca
 
 [instagram]()
 [facebook]()
@@ -23,7 +23,9 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|0|0|0| #RenunciaPiñera #NosCansamosNosUnimos #QueSeVayanTodxs #PiñeraViolaDDHH #NOmásAFP #PensionesDignas #SistemaDeReparto #Tripartito #Solidario #Talca #CONTRAELROBODELASAFP
+#NiunPesoMasAFP
+#DerogarDL3500
 
 ---
 
@@ -36,7 +38,7 @@
 
 Publicaciones:
 
-Actividades:
+Actividades: Una vez al me aproximadamente. Darias en el mes de Julio por proceso de retiro del 10%
 
 ---
 ### Ubicación
@@ -51,7 +53,11 @@ Actividades:
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+
+![imagen](1.png) 
+![imagen](2.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -69,6 +75,10 @@ Actividades:
 **Banderas:**
 
 **Diseño estético:**
+![imagen](3.png)
+![imagen](4.png)
+![imagen](info.png)
+
 
 > Párrafo tipo cita 
 
@@ -79,7 +89,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|Anotar los comunicados | ![imagen](carta.png) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -88,7 +98,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](paco.png)  |
 
 
 ---

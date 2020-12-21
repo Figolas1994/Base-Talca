@@ -31,7 +31,7 @@
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG:  29 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,28 +40,39 @@ Publicaciones: La frecuancia de las publicaciones son semanales de forma continu
 
 Actividades:
 
-| |![imagen2](Imagenes/9.jpg)
-| |![imagen2](Imagenes/12.jpg)
-| |![imagen2](Imagenes/11.jpg)
+
 ---
 ### Ubicación
-* Centro de Talca y sector costanera.
+* Comuna de Talca: sector costanera.
 
 ---
 ### Describir temas de interés y/o trabajo
-
+  - Feminismo 
+  - Proceso constituyente
+  - Memoria
+  - Aborto
+  - Educacion sexual. 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### El colectivo menciona que "busca participar en la creación de un nuevo Chile, que se constituya como un espacio que otorgue seguridad y libertad a las niñas y mujeres de nuetro pais" 
-
+ |![imagen2](Imagenes/15.jpg)
 ---
 ### ¿Que se hace?
-#### La organización genera intervenciones públicas,  difusión de información, actividades, consignas y temas de interés feminista y organización de actividades culturales feministas.    
+#### La organización genera:
+- Intervenciones públicas, 
+- Difusión de información, actividades, consignas y temas de interés feminista 
+- Organización de actividades culturales feministas.  
+- Conversatorios online
+- Actividades solidarias como rifas y colecta de alimentos y utiles de aseo   
+| |![imagen2](Imagenes/9.jpg)
+| |![imagen2](Imagenes/12.jpg)
+| |![imagen2](Imagenes/11.jpg)
+| |![imagen2](Imagenes/14.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-
+- Aborto libre seguro y gratuito
 ---
 ### Tipo de organización interna.
 #### Se percibe una coordinación a través de reuniones o asambleas internas coordinada  por las gestoras o iniciadoras del colectivo.  
@@ -77,7 +88,7 @@ Actividades:
 
 **Diseño estético**
 
-> Párrafo tipo cita 
+> Uso del color violeta. Existe un logo y una estética diseñada desde sus inicios 
 
 ---
 ### Percepciones que se tiene del Estado
@@ -95,7 +106,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() 
+ | ![imagen]() 
 ) |
 
 

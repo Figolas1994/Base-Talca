@@ -1,4 +1,4 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: TAL8
 # Colectiva Señoritas
 
 [instagram](https://www.instagram.com/colectivasenoritas/ )
@@ -12,50 +12,55 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Vivas nos queremos Talca.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades 
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|125|12|12| #martinpradenasviolador 
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Inactiva desde agosto
 
-* Primera Publicación IG
+* Primera Publicación IG 
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: inció en marzo del 2020, estuvo activa semanalmente en junio y julio. Ultima publicación a fines de agosto. 
 
-Actividades:
+Actividades: Cada una semana en el periodo de actividad. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Ciudad de Talca en general. 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización virtual, sus interese son el feminismo y el apoyo mutuo.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Redes de apoyo mutuo a través de reuniones/conversatorios virtuales.
+-  Talleres de maquillaje.
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+![imagen](Imagenes/1.png)
+![imagen](Imagenes/4.png)
 
 ---
 ### Tipo de organización interna.
@@ -69,8 +74,11 @@ Actividades:
 **Banderas:**
 
 **Diseño estético:**
+![imagen](Imagenes/2.png) 
+![imagen](Imagenes/3.png)
 
-> Párrafo tipo cita 
+
+> No destacan notoriamente los colores del movimiento feminista en sus afiches.  
 
 ---
 ### Percepciones que se tiene del Estado

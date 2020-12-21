@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: TAL18
 # El bajo comunidad
 
 [instagram](https://www.instagram.com/elbajoencomunidad/)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<https://elbajoencomunidad.foroactivo.com/>
 ---
 
 ### Representantes
@@ -12,46 +12,55 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### No se visualizan vinculaciones con otras organizaciones
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|2528|1272|17| #reglamentodehumedalesahora
+#humedaleschile
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua 
 
-* Primera Publicación IG
+* Primera Publicación IG 23 DE SEPTIEMBRE 2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales
 
-Actividades:
+Actividades: de 3 a 4 mensuales. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sector sur poniente.
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial interesada en la educación y la apropiación del espacio publico.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### La organización vela por un medio ambiente libre de contaminación.
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+Actividades socio ambientales educativas como:
+- limpieza de humedal y
+- jornadas de autoeducación ambiental sobre humedales, biodiversidad y emergencia climática
+#### 
+![imagen](2.png)
+![imagen](6.png)
+![imagen](lim.png)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -59,7 +68,7 @@ Actividades:
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+####Horizontalidad, no entrega mayor información
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -70,12 +79,17 @@ Actividades:
 
 **Diseño estético:**
 
-> Párrafo tipo cita 
+![imagen](5.png)
+![imagen](3.png)
+
+
+> 
+El diseño de las publicaciones varia, no tienen una continuidad. Los arboles son su principale imgen central en sus publicaciones. 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+>No se presenta
 
 | Declaraciones | infografía | 
 |---|---|
@@ -84,7 +98,7 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> No se presenta. 
 
 | Declaraciones | infografía | 
 |---|---|
@@ -92,4 +106,4 @@ Actividades:
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Noticia TVN Link [Instagram](https://www.instagram.com/p/CFyOYL7jK2k/)

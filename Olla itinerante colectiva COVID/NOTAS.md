@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: Tal15
 # Olla itinirante colectiva COVID
 
 [instagram](https://www.instagram.com/ollaitinerantecolectiva.covid/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/laollaitinerante.colectiva.9)
+
+<laollaitinerante@gmail.coml>
 ---
 
 ### Representantes
@@ -12,70 +12,81 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### EPC nuestras Americas, Colectiva arriba las que luchan, Talca Resiste, 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
-
+|Difusión de  información solidaria, central de coordinación, difusión de consignas, difusión material educativo |Difusión de  información solidaria, central de coordinación, difusión de consignas, difusión material educativo|0| 0|
+![imagen](4.png)
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|726|156|30| #elmercuriomiente #noestássola .
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Discontinua. 
 
-* Primera Publicación IG
+* Primera Publicación IG: 7 de noviembre 
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: fecuancias mensual, semana
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sector sur poniente 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización territorial, interesada en la apropiación del espacio publico, comunicación vecinal, autoeducación y feminismo.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Somos mujeres feministas.
+Nuestra convicción es transformar a través de la organización comunitaria" "HASTA QUE LA DIGNIDAD SE HAGA COSTUMBRE"/ "PORQUE SOLO EL PUEBLO AYUDA AL PUEBLO"/ "La cultura de la violación debe ser erradicada"
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Gestiona reuniones territoriales como onces vecinales. 
+- Genera catastro y mapas de organizaciones a través de mapeos participativos vecinales. 
+- Genera contenido educativo feminista.
+![imagen](apañe.png)
+![imagen](feria.png)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige hacia los vecinos. transformación cotidiana de vivir en el barrio. El perdido de pandemia se dirige a los vecinos y organizaciones solidarias para fomentar redes. 
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Horizontalidad.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** 
+![imagen](lemebel.png)
+![imagen](mapu.png)
+![imagen]()
 
 **Banderas:**
 
 **Diseño estético:**
-
-> Párrafo tipo cita 
+![imagen](13.png)
+![imagen](1.png)
+![imagen](2.png)
+>  La organización tiene un logo definido que representa el cacerolazo, utilizan el violeta con frecuencia. 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> No queda claro 
 
 | Declaraciones | infografía | 
 |---|---|
@@ -88,7 +99,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](mercurio.png) |
 
 
 ---
