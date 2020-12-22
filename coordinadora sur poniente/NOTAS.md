@@ -3,7 +3,7 @@
 
 [instagram](https://www.instagram.com/coordinadora_surponiente_talca/)
 [facebook](https://www.facebook.com/Coordinadora-sur-poniente-Talca-101158091431332/)
-[twitter]()
+
 <c.surponiente@gmail.com>
 ---
 

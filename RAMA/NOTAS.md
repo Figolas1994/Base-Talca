@@ -65,6 +65,7 @@ Actividades: cada una o dos semanas aprox.
 - genera contenido de auto educación a través de sus rrss. 
 - Actividades de economía local como feria de truques. 
 - Convoca a marchas.
+- Realiza encuentros veganos  
 
 ![imagen](3.png)
 

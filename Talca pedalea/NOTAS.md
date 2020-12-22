@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: TAL19
 # Talca pedalea
 
 [instagram](https://www.instagram.com/talcapedalea/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/talca.pedalea)
+
+
 ---
 
 ### Representantes
@@ -12,57 +12,63 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Cletitas sororas, Talca resista, 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|
+Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas
+|
+Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas
+|
+Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas
+| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| #chiledesperto #chilequierecambios #talcapedalea
+|5810|781|246| #chiledesperto #chilequierecambios #talcapedalea
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   discontinua
 
-* Primera Publicación IG
+* Primera Publicación IG 23/03/2014
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales de 2 a 3 publicaciones.
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plza de la loba. plaza las heras /Talca en general.
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Movimiento pro ciclismo interesado en la apropiación del espacio publico.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "No mas ciclistas muertos" "Por que somos parte del cambio.
 
 ---
 ### ¿Que se hace?
-#### 
+#### Realizan cicltadas (protestas)
 ![imagen](2.png)
 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### 
+#### Se dirige a lo aficionados del ciclismo de la ciudad. Exigen respeto a los ciclistas en la vía publica.  Transformación cotidiana en el uso del espacio publico 
 ![imagen](7.png)
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -78,12 +84,12 @@ Actividades:
 ![imagen](3.png)
 ![imagen](4.png)
 
-> Párrafo tipo cita 
+> La iconografia se diseño en el año 2014. Se ha mantenido durante los años  
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> No se distingue
 
 | Declaraciones | infografía | 
 |---|---|
@@ -92,7 +98,7 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> No se distingue 
 
 | Declaraciones | infografía | 
 |---|---|

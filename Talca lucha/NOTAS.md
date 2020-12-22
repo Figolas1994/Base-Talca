@@ -1,14 +1,13 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# Talca lucha
+#### FOLIO: TAL7
+# Talca Lucha
 
 [instagram](https://www.instagram.com/talca_lucha/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/TALCALUCHA)
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No de logran identificar. 
 
 ---
 ### Interacciones frecuentes
@@ -18,51 +17,59 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información, fotografías y actividades|Difusión de información, fotografías y actividades|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| #sipoapruebo #chiledesperto #chile #hastaqueladignidadsehagacostumbre #talca #instatalca #convencionconstituyente #26abrilYoApruebo+CC #AguanteVALPO
+|5522|1627|627| #sipoapruebo #chiledesperto #chile #hastaqueladignidadsehagacostumbre #talca #instatalca #convencionconstituyente #26abrilYoApruebo+CC #AguanteVALPO
 #TalcaLucha #SINJUSTICIANOHAYFUTBOL 
 #nomassename #soschile
 #chiledesperto #quedateencasa #covid19chile
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Continua. 
 
-* Primera Publicación IG
+* Primera Publicación IG 08/12/2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Publicaciones mayoritariamente todos los días.
 
-Actividades:
+Actividades: Actividades convocadas normalmente 2 veces a la semana pre periodo de pandemia. Durante el periodo de pandemia de manera mensual hasta septiembre. 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza pentagono/ Centro de talca en general
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Organización interesada en el apoyo mutuo y la apropiación del espacio publico enfocada en las protestas ciudadanas.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### La organización se define como "Civiles que buscan reivindicar la justicia social en Talca y Chile" Consignas: "Cambio al paradigma neoliberal"/ "Estudiante tu lucha sigue latente" /"hasta que la dignidad se haga costumbre y la voz del pueblo escuchada" /"Educación de calidad y sin discriminación" "Apruebo nuevo constitucion" 
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+- Difusión de Difusión de fotografías de marchas,
+- Protestas: convocatorias a marchas 
+- concentraciones, 
+- velatones, 
+- intervenciones feministas. 
+- Actividades solidarias como campañas de donación de alimentos y útiles de aseos para afectados en el incendio de Valparaíso. 
+- Intervenciones como muralismos. 
+- Actividades culturales como tocatas en la vía publica
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige hacia las familias talquinas. Uso del espacio publico por parte de familias. Emplaza a autoridades locales. Transformación cotidiana del uso del espacio publico 
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Vocería. No se identificas formas de trabajo u organización en las redes sociales y se describen como un movimiento social.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -84,14 +91,14 @@ Actividades:
 
 
 
-> El logo cambia y adapta sus colores en conmemoración a días especiales 
+> El logo cambia y adapta sus colores en conmemoración a días especiales. Uso de banderas y simbolos mapuches recurrentes.  
 > 
 > 
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> Estado dictatorial. 
 
 | Declaraciones | infografía | 
 |---|---|
@@ -99,8 +106,8 @@ Actividades:
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
-#### (Aparato represivo)
-> resumen de lo encontrado
+#### Repudio a la institucion de carabineros. Descontento por el uso de recursos en artefactos de represión 
+> 
 
 | Declaraciones | infografía | 
 |---|---|
@@ -111,4 +118,6 @@ Actividades:
 ---
 ### Saludos Roberto Marquéz: Link video [instagram](8https://www.instagram.com/p/CHPAwYbgJtR/)
 ![imagen](Comu1.jpg)
+
+Mensja entre la lucha y la pandemia [Link instagram](https://www.instagram.com/p/B_h-QhDpNQG/)
 
