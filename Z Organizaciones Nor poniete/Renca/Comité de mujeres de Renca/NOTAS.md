@@ -1,14 +1,14 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: REN4
+# Comité de mujeres de Renca
 
 [instagram]()
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<comitedemujeresderenca@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se distinguen
 
 ---
 ### Interacciones frecuentes
@@ -18,48 +18,49 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información, actividades y mural de fotografías de actividades concretadas.|Difusión de información, actividades y mural de fotografías de actividades concretadas.|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|2314	|201	|103| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Activa
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4)
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza de Renca, Pelluhue con Bichupureo/ Casa de la cultura de Renca
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial , unión vecinal y solidaridad comunitaria. Se definen como una organización que busca recuperar s espacios, formar comunidad y trabajar de manera conjunta para el desarrollo social.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Solo el pueblo ayuda al pueblo" "libertad al pueblo mapuche"
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Múltiples acciones comunitarias como talleres de batucada o Kung fu, pasacalle. Protestas como cacerolazos, velatones, actos conmemorativos. Accione solidarias como ollas comunes, campañas de recolección de alimentos y satinizacion.
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Dirigido a los vecinos y vecinas pobladores del sector Huamachuco. Emplaza a autoridades centrales por los hechos de violencia en los territorios movilizados.
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

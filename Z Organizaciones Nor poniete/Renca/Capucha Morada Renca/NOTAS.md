@@ -1,65 +1,67 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: REN8
+# Capucha Morada Renca
 
-[instagram]()
+[instagram](https://www.instagram.com/p/B9IQwQZp5bX/)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<capuchamoradarenca@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se distinguen
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Juventud popular Renca, comité de mujeres Renca, comité fotográfico.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de actividades y mural de fotografía.|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|629	|226	|13| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Discontinua. Inactiva.
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Centro de Renca
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Feminismo, apoyo mutuo entre mujeres y educación sexual.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### 
+
+ ¡ABAJO LA EDUCACIÓN DE MERCADO Y EL PATRIARCADO! Ven y súmate, POR LA LUCHA DE UNA EDUCACIÓN DIGNA, NO SEXISTA, DIVERSA Y NO HOMOFÓBICA, AHORA QUE ESTAMOS JUNTAS, AHORA QUE SÍ NOS VEN, ABAJO EL PATRIARCADO QUE VA A CAER, QUE VA A CAER
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Protestas como cacerolazos y velatones. Campaña virtual para prevenir ser victima de acoso. Difusión de información de seguridad publica.
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Mujeres de Renca. Emplaza a autoridades que replican un sistema patriarcal. Emplaza al presidente por los hechos de violencia y muerte en los territorios movilizados.
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo. No de distinguen representantes ni las acciones de trabajo.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

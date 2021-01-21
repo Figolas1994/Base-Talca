@@ -1,7 +1,7 @@
-#### FOLIO: REN7
-# Asamblea Territorial J.Cardinj
+#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+# NOMBRE ASAMBLEA
 
-[instagram](https://www.instagram.com/p/B5-ptL_hejA/)
+[instagram]()
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +12,55 @@
 
 ---
 ### Interacciones frecuentes
-#### Asamblea de pobladores de Humachuco.
+#### (listar otras organizaciones que habitualmente)
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de actividades y mural de fotografía.|0|0| 0|
+|0|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|100	|40	|6| 0
+|0|0|0| 0
 
 ---
 
-* **Actividad:**   Inactiva. Se sospecha una unión con la Asamblea de pobladores de Huamachuco
+* **Actividad:**   
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:Dos semanales
+Publicaciones:
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: Población Huamachuco
+* Sector de la comununa/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo
-Organizaciones territorio y unión vecinal.
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### Unidad comunitaria. 
+#### (El horizonte hacia el cual se quiere avanzar.)
 
 ---
 ### ¿Que se hace?
-#### conversatorios vecinales y almuerzos comunitarios.
+#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### Vecinos y vecinas del sector Huamachuco interesado en competir opinión y unirse al debate nacional post estallido.
+#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
 ---
 ### Tipo de organización interna.
-#### Asambleísmo y horizontalidad.
+#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 

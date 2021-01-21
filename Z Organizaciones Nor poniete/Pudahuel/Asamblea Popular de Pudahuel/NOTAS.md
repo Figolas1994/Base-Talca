@@ -2,7 +2,7 @@
 # NOMBRE ASAMBLEA
 
 [instagram]()
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Popular-Pudahuel-102955984481066/?ref=page_internal)
 [twitter]()
 <correo@correo.cl>
 ---
