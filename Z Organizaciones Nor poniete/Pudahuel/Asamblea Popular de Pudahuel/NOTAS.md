@@ -6,12 +6,12 @@
 [instagram](https://www.instagram.com/asambleapudahuel/
 )
 [facebook](https://www.facebook.com/Asamblea-Popular-Pudahuel-102955984481066/?ref=page_internal)
-[twitter]()
-<correo@correo.cl>
+
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+####  No se identifican. 
 
 ---
 ### Interacciones frecuentes
@@ -59,17 +59,25 @@ Organización territorial. Entre sus interese esta la organización vecinal y el
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### Considerando su horizonte de lucha la organización se define como: "organización popular al margen de los intereses políticos e institucionales, de carácter autónomo con el único objetivo de hacer valer la organización vecinal". "construyendo autonomía y libertad en resistencia".
-
+![imagen](presentacion.jpg)
+![imagen](ideas.jpg)
 
 ---
 ### ¿Que se hace?
 #### La organizaciones a realizado múltiples actividades como asambleas, conversatorios, onces comunitarias, actividades para niños. Talleres entre estos de eco productos o primeros auxilios. Protestas, cacerolazos, velatones y acciones solidarias como ollas comunes, ayuda a cesantes a causa de la crisis.
+![imagen](velaton.jpg)
+![imagen](sindicato.jpg)
+![imagen](recicla.jpg)
+![imagen](muralismo.jpg)
+![imagen](ecoproducto.jpg)
+
 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Dirigido a vecinos y vecinas de Pudahuel. Transformación cotidiana del vivir en el barrio y en comunidad.
-
+![imagen](demandas.jpg)
+![imagen](demandas2.jpg)
 
 ---
 ### Tipo de organización interna.
@@ -80,6 +88,10 @@ Organización territorial. Entre sus interese esta la organización vecinal y el
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](logo.jpg)
+![imagen](mural.jpg)
+![imagen](catrillanca.jpg)
+
 
 **Banderas:**
 
@@ -94,7 +106,10 @@ Organización territorial. Entre sus interese esta la organización vecinal y el
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](gobcovid.jpg)
+![imagen](comunimunicipo.jpg)
+![imagen](municipio.jpg) 
+![imagen](minicipio.jpg)| ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

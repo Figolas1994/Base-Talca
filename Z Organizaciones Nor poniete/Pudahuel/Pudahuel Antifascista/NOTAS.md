@@ -4,13 +4,11 @@
 
 [instagram](https://www.instagram.com/p/CFw8mShhE_c/
 )
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se identifican. 
 
 ---
 ### Interacciones frecuentes
@@ -64,6 +62,8 @@ Fin al Estado mercantil. " Solo el pueblo ayuda al pueblo"
 ---
 ### ¿Que se hace?
 #### Actos conmemorativos Jornadas de Muralismo , tocatas, feria de las pulgas.
+![imagen](convoca.jpg)
+![imagen](convoca2.jpg)
 
 
 ---
@@ -80,8 +80,12 @@ Fin al Estado mercantil. " Solo el pueblo ayuda al pueblo"
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](barrio.jpg)
+![imagen](vergara.jpg)
+
 
 **Banderas:**
+![imagen](mapu.jpg)
 
 **Diseño estético:**
 
@@ -103,7 +107,7 @@ Fin al Estado mercantil. " Solo el pueblo ayuda al pueblo"
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](militar.jpg)s | ![imagen]() |
 
 
 ---

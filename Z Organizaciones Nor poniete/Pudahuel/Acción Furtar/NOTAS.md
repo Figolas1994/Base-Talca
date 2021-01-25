@@ -62,11 +62,14 @@ Feminismo, apoyo mutuo y apropiación del espacio publico.
 ---
 ### ¿Que se hace?
 #### La organización realiza intervenciones artísticas y actos conmemorativos en la vía publica. Acciones solidarias como rifas solidarias, difusión de centrales de acopio.
-
+![imagen](biblio.jpg)
+![imagen](rifa.jpg)
+![imagen](interven.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### "Libertad a todos los presos por luchar" "No mas impunidad"
+![imagen](impunidad.jpg)
 
 ---
 ### Tipo de organización interna.
@@ -78,6 +81,9 @@ Feminismo, apoyo mutuo y apropiación del espacio publico.
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](logo.jpg)
+![imagen](mujers.jpg)
+
 
 **Banderas:**
 

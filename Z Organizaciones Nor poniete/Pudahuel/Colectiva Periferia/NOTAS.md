@@ -7,13 +7,11 @@
 [instagram](https://www.instagram.com/colectivaperiferikaspudahuel/
 )
 [facebook](https://www.facebook.com/Perif%C3%A9rikas-101252558264407/?ref=page_internal)
-[twitter]()
-<correo@correo.cl>
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
-
+#### No se identifican. 
 ---
 ### Interacciones frecuentes
 #### Asamblea Territorial Pudahuel, Colectiva perra Filtra, Pudahuel Fem, Asamblea Mar de Drake, Colectiva feminista Lo espejo, Cerro Navia feminista, Asamblea mujeres y disidencias, Movimiento comuna popular,
@@ -63,6 +61,10 @@ Organización territorial, feminismo, apoyo mutuo, apropiación del espacio publ
 ---
 ### ¿Que se hace?
 #### Múltiples acciones colectivas como: Asambleas abiertas, encuentros y conversatorios (físicos y online). Llamados a manifestaciones. Creación de contenido educativo como videos y fichas explicativas en temáticas feministas, sobre políticas publicas, entre otras.
+![imagen](progra.jpg)
+![imagen](interv.jpg)
+![imagen](asam.jpg)
+![imagen](campañ.jpg)
 
 
 ---
@@ -78,9 +80,16 @@ Organización territorial, feminismo, apoyo mutuo, apropiación del espacio publ
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+
+**Iconos:** ![imagen](logo.jpg)
+![imagen](logo2.jpg)
+![imagen](ambar.jpg)
+![imagen](lgtb.jpg)
+![imagen](mapu.jpg)
+![imagen](lemeb.jpg)
 
 **Banderas:**
+![imagen](bandera.jpg)
 
 **Diseño estético:**
 
@@ -93,7 +102,7 @@ Organización territorial, feminismo, apoyo mutuo, apropiación del espacio publ
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](esta.jpg)| ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
