@@ -1,7 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR4
 
-[instagram]()
+# Asamblea Mujeres y Disidencias Lo Prado
+
+
+[instagram](https://www.instagram.com/asambleamujeres.lp2/
+)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +15,63 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Colectiva Perra kiltra, lo espejo en resistencia, asamblea popular Lo Besa, Asamblea comunal Lo Prado, Rotas Movilizadas, Asamblea general cerrillos, Asamblea Mujeres y Disidencias Maipú.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|837|	91|	38|
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Inactiva
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Mensuales (de 3 a 4 publicaciones)
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Parque Neptuno, Neptuno con Bonilla, Metro Lo Prado, Parque alameda calle ecuador.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial y feminismo. Trabaja en actividades de apropiación del espacio publico y auto educación.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### EL ESTADO OPRESOR ES UN MACHO VIOLADOR ¡RECUPEREMOS LA CALLE Y LA ORGANIZACION BARRIAL! El futuro será feminista o no será.
 
----
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Múltiples acciones colectivas como intervenciones artísticas en la vía publica. Reuniones, consultas ciudadanas, conversatorios feministas pro aborto, ciclos de documentales. Acciones solidarias como acopio de alimentos. .
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### dirigida a mujeres y disidencias de Lo Prado. No mas violaciones/ En pandemia las mujeres y las niñas trans abortamos.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad. Se distingue un trabajo por comisiones
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

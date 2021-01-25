@@ -1,65 +1,81 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR7
 
-[instagram]()
+# Olla común Che Guevara
+
+
+[instagram](https://www.instagram.com/olla_comun_che/
+)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<poblacheguevara@gmail.com
+>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### 
+
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Olla común T1 Lo prado,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|563|74|	117| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continuas
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Día por medio
 
-Actividades:
+
+Actividades: Día por medio
+
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: ex Campamento Che Guevara, actual Villa Santa Anita
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorio solidaria que nace para cubrir necesidad alimenticias. Apoyo mutuo , colaboración entre vecinos y organizaciones.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Solo el pueblo ayuda al pueblo" En Chile hay racismo #Yotambienllevosangremapuche.
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Ollas comunes y actos conmemorativos como por ejemplo los 50 años del campamento Che Guevara
+
 
 ---
-### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contedirigidoncioso o con lo político mas prefigurativo
+#### Difigido a vecinos y vecinas de la población Che Guevara
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### No se logra distinguir una estructura organizativa. Pero se distingue un trabajo con comisiones para el funcionamiento de la olla.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

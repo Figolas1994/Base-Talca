@@ -53,10 +53,17 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### Múltiples acciones comunitarias como talleres de batucada o Kung fu, pasacalle. Protestas como cacerolazos, velatones, actos conmemorativos. Accione solidarias como ollas comunes, campañas de recolección de alimentos y satinizacion.
+![imagen](matapaco.jpg)
+![imagen](cabildo.jpg)
+![imagen](olla.jpg)
+![imagen](tallersalud.jpg)
+![imagen](kunfu.jpg)
+![imagen](mural.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Dirigido a los vecinos y vecinas pobladores del sector Huamachuco. Emplaza a autoridades centrales por los hechos de violencia en los territorios movilizados. 
+![imagen](justicia.jpg)
 ---
 ### Tipo de organización interna.
 #### Asambleísmo y horizontalidad.
@@ -65,10 +72,16 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](logo1.jpg)
+![imagen](logo2.png)
+
 
 **Banderas:**
 
 **Diseño estético:**
+![imagen](cronograma.jpg)
+![imagen](virus.jpg)
+
 
 > Párrafo tipo cita 
 
@@ -88,7 +101,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](milita.jpg) |
 
 
 ---

@@ -1,10 +1,14 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PUD6
 
-[instagram]()
-[facebook]()
+# Asamblea Territorial Pudahuel Sur
+
+
+[instagram](https://www.instagram.com/asambleapudahuelsur/
+)
+[facebook](https://www.facebook.com/Asamblea-Territorial-Pudahuel-Sur-108259010607738/?ref=page_internal)
 [twitter]()
-<correo@correo.cl>
+<asambleaterritorialpudahuelsur@gmail.com
+>
 ---
 
 ### Representantes
@@ -12,54 +16,64 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea Mar de Drake, asamblea barrio Brasil, Pudahuel Fem, plaza Pitágoras.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades.|Difusión de información y actividades.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|719|	241|	69
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Contiinuar
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 5)
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Pudahuel Sur
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, de apoyo mutuo y unión vecinal. Trabaja en actividades de participación comunitaria y ayuda solidaria para enfrentar el periodo de crisis socio sanitaria.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### ¡Solo el pueblo ayuda al pueblo! ¡Todo el poder a las Asambleas!
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Múltiples acciones colectivas: desde protestas como cacerolazos y convocatorias a marchas. Actividades comunitarias como ciclos de cine, cicletadas, talleres de boxeo y circo. Conversatorios. Acciones solidarias como acopio de alimentos y útiles de aseo, ayuda psicológica, entre otros.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a vecinos y vecinas de Pudahuel sur. /Transformación cotidiana del vivir en el barrio/ "No mas sename", "no mas AFP", "devuelvan la plata de las AFPs"
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Horizontalidad.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

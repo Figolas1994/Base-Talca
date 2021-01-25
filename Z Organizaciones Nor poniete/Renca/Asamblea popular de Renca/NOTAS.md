@@ -2,9 +2,8 @@
 # Asamblea popular de Renca.
 
 [instagram](https://www.instagram.com/asambleapopular.renca/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/Asamblea-Popular-de-Renca-110042160430506)
+
 ---
 
 ### Representantes
@@ -52,11 +51,15 @@ Organización territorial, unión vecinal y solidaridad comunitaria.
 ---
 ### ¿Que se hace?
 #### Asambleas populares abiertas y muralismos.
+![imagen](marcha.jpg)
+![imagen](caserol.jpg)
+![imagen](pintaton.jpg)
+![imagen](muralismo.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Vecinos y vecinas de la comuna de Renca. Emplaza a las autoridades de gobierno por la represión en los territorios movilizados.
-
+![imagen](nopaz.jpg)
 ---
 ### Tipo de organización interna.
 #### Asambleas populares abiertas y muralismos.
@@ -65,8 +68,12 @@ Organización territorial, unión vecinal y solidaridad comunitaria.
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](neco.jpg)
+
+
 
 **Banderas:**
+![imagen](lienzo.jpg)
 
 **Diseño estético:**
 
@@ -79,7 +86,8 @@ Organización territorial, unión vecinal y solidaridad comunitaria.
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](estado.jpg) ![imagen](estado2.jpg)
+| ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

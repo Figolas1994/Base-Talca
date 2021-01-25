@@ -12,67 +12,81 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea territorial Cerro Navia, Asamblea territorial Pudahuel Sur. Asamblea Las Parcelas, Asamblea Villa Francia, Asamblea Los portales, Asamblea Villa O´Higgins, Asamblea comunal Pudahuel, Asamblea Territorial Janequeo.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades.|Difusión de información y actividades.|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|3200	|371	|172| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Activa
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4)
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad:Sector poniente de Santiago
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, comunicacional y de apoyo mutuo, interesada en la unión y creación de redes territoriales. Trabaja generando redes entre asambleas y/o organizaciones territoriales.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### 
+"El Estado es responsable, juicio y castigo para las asesinos del pueblo." " Libertad a los y las presos de la resuelta" "Fin a la militarización de WallMapu" "Una sociedad digna no libera violadores de los derechos humanos"
 ¡FIN A LA MILITARIZACIÓN DE NUESTROS TERRITORIOS!
 ¡FIN AL TOQUE DE QUEDA!
 ¡ESTADO CRIMINAL Y ASESINO, NUESTRAS VIDAS NO LES IMPORTAN!
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Llamados a protestas a todos los territorios, cacerolazos, entrega de boletines informativos. Convocatorias a redes solidarias en los territorios
+![imagen](afiche1.jpg)
+![imagen](afiche2.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a asambleas territoriales del sector Norponiente de Santiago. No mas Teletón. /Transformación cotidiana de vivir en comunidad. Emplaza a autoridades de Estado por no gestionar de buena manera la crisis socio económica.
+![imagen](presos.jpg)
+![imagen](noteleton.jpg)
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y trabajo por comisiones.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](catrillanca.jpg)
+![imagen](berta.jpg)
+![imagen](matapaco.jpg)
+![imagen](mapuche.jpg)
+![imagen](america.jpg)
+
 
 **Banderas:**
+![imagen](mujeres.jpg)
 
 **Diseño estético:**
-
+![imagen](cordonorg.jpg)
+![imagen](generoviolen.jpg)
 > Párrafo tipo cita 
 
 ---
@@ -82,7 +96,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](declaracionvirus.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -101,7 +115,9 @@ Conocemos su estrategia, y como oprimidxs y explotadxs no dejaremos de luchar. L
 
 ¡FIN A LA MILITARIZACIÓN DE NUESTROS TERRITORIOS!
 ¡FIN AL TOQUE DE QUEDA!
-¡ESTADO CRIMINAL Y ASESINO, NUESTRAS VIDAS NO LES IMPORTAN! | ![imagen]() |
+¡ESTADO CRIMINAL Y ASESINO, NUESTRAS VIDAS NO LES IMPORTAN! | ![imagen](represion.jpg) 
+![imagen](toquedequeda.jpg)
+
 
 
 ---
@@ -109,3 +125,5 @@ Conocemos su estrategia, y como oprimidxs y explotadxs no dejaremos de luchar. L
 
 Desde la unidad vecinal de Villa Portales, nos invitan a reflexionar y a criticar el concepto de discapacidad, el cual sigue presente en nuestra sociedad, y más aún, sigue siendo profundizada por algunas instituciones caritativas, entre ellas, la Teletón.
 Link video: [Instagram](https://www.instagram.com/p/B-nr_MQp_OR/)
+
+

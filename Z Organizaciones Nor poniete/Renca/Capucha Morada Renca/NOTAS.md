@@ -54,8 +54,11 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### Protestas como cacerolazos y velatones. Campaña virtual para prevenir ser victima de acoso. Difusión de información de seguridad publica.
-
+![imagen](apoyomutuo.jpg)
 ---
+![imagen](velaton.jpg)
+![imagen](interv.jpg)
+
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Mujeres de Renca. Emplaza a autoridades que replican un sistema patriarcal. Emplaza al presidente por los hechos de violencia y muerte en los territorios movilizados.
 
@@ -66,11 +69,14 @@ Actividades:
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
-
+**Iconos:** ![imagen](anime.jpg)
+![imagen](ambar.jpg)
+![imagen](alertamo.jpg)
 **Banderas:**
 
 **Diseño estético:**
+![imagen](protesta.jpg)
+
 
 > Párrafo tipo cita 
 

@@ -1,8 +1,12 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PUD5
+ 
+# Colectiva Periferika
 
-[instagram]()
-[facebook]()
+
+
+[instagram](https://www.instagram.com/colectivaperiferikaspudahuel/
+)
+[facebook](https://www.facebook.com/Perif%C3%A9rikas-101252558264407/?ref=page_internal)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -12,54 +16,64 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea Territorial Pudahuel, Colectiva perra Filtra, Pudahuel Fem, Asamblea Mar de Drake, Colectiva feminista Lo espejo, Cerro Navia feminista, Asamblea mujeres y disidencias, Movimiento comuna popular,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1498|	383	|121
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Activo
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 2 a 3).
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Pudahuel Norte. Plaza de Armas de Pudahuel.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, feminismo, apoyo mutuo, apropiación del espacio publico y sistemas de auto educación.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Fin al patriarcado. ¡Desde la trinchera de la población caerá el sistema opresor!
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Múltiples acciones colectivas como: Asambleas abiertas, encuentros y conversatorios (físicos y online). Llamados a manifestaciones. Creación de contenido educativo como videos y fichas explicativas en temáticas feministas, sobre políticas publicas, entre otras.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a mujeres y disidencias de sector norte de Pudahuel. Transformación cotidiana del vivir en comunidad, enfatizan en los rencuentros comunitarios.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Horizontalidad.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

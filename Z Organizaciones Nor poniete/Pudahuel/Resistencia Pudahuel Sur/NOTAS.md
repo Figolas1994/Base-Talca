@@ -1,65 +1,77 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PUD2	
 
-[instagram]()
-[facebook]()
+# Resistencia Pudahuel Sur
+
+[instagram](https://www.instagram.com/resistencia.psur/)
+[facebook](https://www.facebook.com/Resistencia-Pudahuel-Sur-114173253456524)
 [twitter]()
-<correo@correo.cl>
+<resistenciapudahuelsur@gmail.com
+>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+####
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Plaza pitadora, Movimiento Comuna Popular, colectivo perra kiltra, Asamblea Mar de Drake, Pudahuel fem.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1779|	1005|	130
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Continuas.
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4) a partir de Marzo del 2020
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sector Pudahuel sur
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial . Sus interese son la protesta en contra el sistema político, contra información y el apoyo mutuo para cubrir necesidades causadas por la crisis socio sanitaria.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Fin al Estado mercantil. " Solo el pueblo ayuda al pueblo"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### 
+Actos políticos conmemorativos. Creación de Boletines informativos. Jornadas de protestas, cacerolazos, cortes calles, rayado de murales en la vía publica. Acciones solidarias como ollas comunes, campañas solidarias de recolección de dinero.
+Acopio aliementos para perros
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Emplaza medidas del gobierno en la crisis socio sanitaria.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. No se distingue una estructura organizativa clara.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

@@ -1,65 +1,80 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR10
+ 
+# Granito de Mostaza
 
-[instagram]()
-[facebook]()
+
+[instagram](https://www.instagram.com/granitos_de_mostazas/
+)
+[facebook](https://www.facebook.com/Granitosdemostazas/)
 [twitter]()
-<correo@correo.cl>
+<granitosdemostaza@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### teléfono: 569 58992703
+>
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Pastoral juvenil Parroquia Cristo de Emaús
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1137|	1485|	88
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4) a partir de agosto 6 publicaciones mensuales
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Sede juventud Ovalle, Dorsal 5864
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organizaciones solidaria interesada en el apoyo mutuo.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Queremos ser agentes de cambio con fin de hacer justicia social TODOS JUNTXS PODEMOS CREAR UNA NUEVA VERSIÓN DE LA SOCIEDAD QUE QUEREMOS ""
+MOTIVATE A SENTIR Y A SERVIR"" "EN TIEMPOS DIFÍCILES,EL APOYO ALIVIABA NUESTRA CARGA"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### La organización realiza ollas comunes y constantes campañas de recolección de alimentos y útiles de aseos para entregar a familias de la comuna.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### No se distinguen por redes sociales. 
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. Se distingue un trabajo por comisiones.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

@@ -1,65 +1,77 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PDU13
+# Plaza Pitágoras
+
 
 [instagram]()
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<asamblea.pitagoras@gamail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### Teléfono: 569 79020349 
+
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea Popular de Pudahuel, Asamblea Mar de Drake, Pudahuel resiste, Pudahuel Fem, Colectiva perra kiltra, Asamblea Pudahuel Sur, Movimiento comuna popular.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|768|	198|	55
+ 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Inactiva
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanal (de 2 a 3)
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza Pitágoras
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, apropiación del espacio publico y apoyo mutuo. Trabaja en actividades de movilización y ayuda solidaria durante en el periodo de crisis socio sanitaria.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "Solo el pueblo ayuda al pueblo" Ni perdón ni olvido" "hasta que arda tu herencia"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Asambleas abiertas. Generan redes de economía local como feria de las pulgas. Acciones solidarias, funcionan como central de apropio de alimentos y útiles de aseo. Actividades vecinales como la celebración del día del niño.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a vecinos, vecinas y organizaciones territoriales de Pudahuel./ Transformación cotidiana del vivir en el barrio y en la comuna.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

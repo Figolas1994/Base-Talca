@@ -1,65 +1,76 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR6
 
-[instagram]()
-[facebook]()
+# Asamblea Comunal Lo Prado
+
+[instagram](https://www.instagram.com/asambleacomunaloprado/
+)
+[facebook](https://www.facebook.com/Asamblea-Comunal-Lo-Prado-100285151604387)
 [twitter]()
-<correo@correo.cl>
+<asambleaterritorialloprado@gmail.com
+>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
-
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Olla común T1 Lo prado, Desorden Público Lo Prado, Asamblea Popular Lo Besa, Asamblea Mujeres y Disidencias Lo Prado,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|2042|	521	|277
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Parque Neptuno.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial sus intereses son el proceso constituyente y la participación ciudadana.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### De define como un grupo de vecinos y vecinas auto convocados de la comuna. Nos reunimos con el fin de generar un espacio para el debate político, en pos de la nueva Constitución. "Ni perdón ni olvido, justicia y castigo"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Conversatorios y charlas referente al proceso constituyente. Realizan Actividades culturales y de participación ciudadana como Jornadas de conversatorios seguido de micrófonos abiertos (musical) actos conmemorativos hacia los presos políticos y por la muerte de Camilo Cariblanca. Realizan completadas para reunir fondos para la asamblea.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Vecinos y vecinas interesados en el procesos constituyente. Bajar la información a las bases.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

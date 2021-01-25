@@ -1,10 +1,12 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PUD4
+# Acción Furtar
 
-[instagram]()
+[instagram](https://www.instagram.com/p/CFfvC56gyfh/
+)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<Accionfurtar@gmail.com
+>
 ---
 
 ### Representantes
@@ -12,54 +14,65 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Colectiva perra filtra, Colectivo La yuyo, Pudahuel Fem, Colectiva periféricas.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|401|	615	|19
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4) desde septiembre del 2020
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Pudahuel en general.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Feminismo, apoyo mutuo y apropiación del espacio publico.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### La organización menciona que: " queremos reivindicar la organización comunitaria como una relación socio-afectiva que crea vínculos de reciprocidad, pero que además hace confluir distintas luchas de compañeras y compañeros".
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### La organización realiza intervenciones artísticas y actos conmemorativos en la vía publica. Acciones solidarias como rifas solidarias, difusión de centrales de acopio.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### "Libertad a todos los presos por luchar" "No mas impunidad"
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### No se distingue con claridad la estructura organizativa. Se visualiza horizontalidad.
+
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -92,4 +105,4 @@ Actividades:
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Video intervención: [Instagram](https://www.instagram.com/p/CIjv65ipHZx/)

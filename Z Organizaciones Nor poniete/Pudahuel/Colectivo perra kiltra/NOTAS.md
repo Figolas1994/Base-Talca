@@ -1,7 +1,8 @@
 #### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
 # NOMBRE ASAMBLEA
 
-[instagram]()
+[instagram](https://www.instagram.com/colectivaperrakiltra/
+)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +13,65 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea Mar de Drake, Asamblea Territorial Pudahuel Sur, Amor subversivo, Plaza Pitágoras,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades.|Difusión de información y actividades.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|2498	|401|	99
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 2 3) aproximadamente.
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Laguna Azul/sede vecinal Pedreo Prado Valparaíso 7028/ Plaza Villa Marta Brunnet/ Parque Las Torres.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, feminismo, apoyo mutuo, apropiación del espacio publico y sistema de auto educación.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### " No basta con transformar los espacios, también queremos justicia. Sin memoria no hay historia." "Hoy nos siguen viendo la cara, con su propaganda fascista, disfrazada de progresistas" "Que muera Piñera y no mi compañera" "PORQUE SOLO EL PUEBLO AYUDA AL PUEBLO
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Asambleas abierta de mujeres. Gestión de encuentros feministas y disidentes, conversatorios de genero y feminismo, entre otros Protestas cacerolazos. Acciones solidarias como campañas de acopio de alimentos y útiles de aseo
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige hacia mujeres del territorio. Emplaza a autoridades y (Funa) a hombres acusados de acoso o violación.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y Horizontalidad. No se distingue una trabajo por comisiones.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

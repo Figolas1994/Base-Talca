@@ -1,65 +1,75 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: REN1
+# Juventud Popular de Renca
 
 [instagram](https://www.instagram.com/juventudpopular.renca/)
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/Juventud-Popular-de-Renca-107260467529704)
+
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### .
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Renca despertó, Partido Alternativa Feminista Renca, Revolución Ciclista, Comité de mujeres de Renca, Asamblea Popular de Renca, Asamblea General Cerrillos, comité de emergencia zona norte, STGO NORTE PEDALEA, COORDINADORA SECUNDARIA DE ARICA, Aces Concepción, Agrupación Estudiantil Chgte, Colectivo Norma Vergara
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías para registrar las actividades concretadas|Difusión de información, actividades y mural de fotografía de actividades concretadas.|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| #renunciapiñera #primeralimea #chile #chiledesperto #gustavogatica #traidores #derechoshumanos
+|3671	|955|	1100|0| #renunciapiñera #primeralimea #chile #chiledesperto #gustavogatica #traidores #derechoshumanos
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Continua  
 
 * Primera Publicación IG 23 de diciembre del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones:Semanales (2 a 3) y de 1 a 2 en periodo de pandemia.
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Distintas esquinas de la comuna
 
 ---
 ### Describir temas de interés y/o trabajo
+#### Sus temática de interés son educacionales (no mas psu), protesta estudiantil y protesta social.
+---![imagen](2.1comu.jpg)
+![imagen](2.2comu.jpg)
+![imagen](1comu.jpg)
 
----
+
+
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Lucha por un cambio en el sistema educacional Chileno¡¡ A LUCHAR POR VIDAS DIGNAS, PLENAS Y FELICES !! ! CONTRA EL ESTADO TERRORISTA, SU PRENSA FASCISTA Y EL SILENCIO CÓMPLICE DE LA MUNICIPALIDAD !!
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Protestas estudiantiles y ciudadanas. Generan corte de calles (barricadas), pega de lienzos y entrega de volantes informativos.
+![imagen](1.jpg)
+![imagen](3.jpg)
+![imagen](mural.jpg)
+![imagen](panfleto.jpg)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a estudiantes de Renca a uniese en contra el sistema educacional. Emplaza a autoridades Estado y municipales en particular.
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad. No se logra identificar representantes.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -67,8 +77,15 @@ Actividades:
 **Iconos:**
 
 **Banderas:**
+![imagen](2.jpg)
+
+
 
 **Diseño estético:**
+![imagen](4.jpg)
+
+
+
 
 > Párrafo tipo cita 
 
@@ -79,7 +96,9 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](comu3.1.jpg)
+![imagen](comu3.2.jpg)
+![imagen](comun3.3.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -88,7 +107,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+| ![imagen](polis.jpg)|  |
 
 
 ---

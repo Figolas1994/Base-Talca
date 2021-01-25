@@ -53,6 +53,12 @@ Organización territorial , unión vecinal y solidaridad comunitaria. Se definen
 ---
 ### ¿Que se hace?
 #### Múltiples acciones comunitarias como talleres de batucada o Kung fu, pasacalle. Protestas como cacerolazos, velatones, actos conmemorativos. Accione solidarias como ollas comunes, campañas de recolección de alimentos y satinizacion.
+![imagen](asamblea.jpg) 
+![imagen](autofromacion.jpg)
+![imagen](funa.jpg)
+![imagen](protesta.jpg)
+![imagen](taller.jpg)
+![imagen](caserolazoultimo.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -66,8 +72,10 @@ Organización territorial , unión vecinal y solidaridad comunitaria. Se definen
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](gladis.jpg)
 
-**Banderas:**
+
+**Banderas:** ![imagen](protesta2.jpg)
 
 **Diseño estético:**
 

@@ -1,7 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PUD1
 
-[instagram]()
+# Asamblea Popular de Pudahuel
+
+
+[instagram](https://www.instagram.com/asambleapudahuel/
+)
 [facebook](https://www.facebook.com/Asamblea-Popular-Pudahuel-102955984481066/?ref=page_internal)
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +15,66 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Cordón poniente, cordón Grecia, Asamblea barrio Brasil, Pudahuel, Asamblea Mar de Drake, cabildo alimentario Chile, Pudahuel fem, Maipú rebelde, Plaza Pitágoras, Colectivo Llama, Asamblea El claustro,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|3611|	496	|168
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continuas
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4)
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Plaza de Armas de Pudahuel/ Sede vecinal 13/ Diagonal norte con diagonal sur
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial. Entre sus interese esta la organización vecinal y el apoyo mutuo. En sus inicios promovían los conversatorio ciudadanos tratando temáticas como la educación parvulario o las políticas publicas en torno a la infancia.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Considerando su horizonte de lucha la organización se define como: "organización popular al margen de los intereses políticos e institucionales, de carácter autónomo con el único objetivo de hacer valer la organización vecinal". "construyendo autonomía y libertad en resistencia".
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### La organizaciones a realizado múltiples actividades como asambleas, conversatorios, onces comunitarias, actividades para niños. Talleres entre estos de eco productos o primeros auxilios. Protestas, cacerolazos, velatones y acciones solidarias como ollas comunes, ayuda a cesantes a causa de la crisis.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Dirigido a vecinos y vecinas de Pudahuel. Transformación cotidiana del vivir en el barrio y en comunidad.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo. La organización detalla trabajar por comisiones desde sus inicios. Ejemplo de ello es su comisión de mujer e infancia y comisión de primeros auxilios.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

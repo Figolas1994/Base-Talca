@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+#### FOLIO: REN3
 # Renca resiste
 
-[instagram]()
-[facebook]()
+[instagram](https://www.instagram.com/rencaresiste/)
+[facebook](https://www.facebook.com/ResisteRenca)
 [twitter]()
-<correo@correo.cl>
+<renca.resiste@gmail.com>
 ---
 
 ### Representantes
@@ -12,59 +12,67 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Partido Alternativa Feminista, Iniciativa Pasaje justo, Centro Cultural Trabun Amuley, Encuentro artesano rock, STGO NORTE PEDALEA, Brigada Ramona Parra BRP, Renca despertó.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información, actividades y mural de fotografía de actividades concretadas.0|Difusión de información, actividades y mural de fotografía de actividades concretadas.| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|601	|588|	60| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Las actividades comienzan en julio del 2020. Discontinuas
 
 * Primera Publicación IG 3 de julio del 2020 
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 2 a 3) a partir de octubre mensuales.
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: No definida 
 
 ---
 ### Describir temas de interés y/o trabajo
-
+#### Fortalecimiento de lazos comunitarios, conciencia política y problemáticas de contexto nacional e histórico izquierdista.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Vivimos, volvemos y venceremos "El pueblo ayuda al pueblo"
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Conversatorios virtuales e intercambio de saberes. Creación de contenido informativo como por ejemplo los pasos para el tramite del 10%.
+
+![imagen](2.jpg)
+![imagen](6.jpg)
+![imagen](voluntariado.jpg)
+![imagen](capitulo1.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Vecinos y vecinas de la comuna de Renca interesados en generar conversaciones virtuales comunitarias respecto al contexto nacional. "Somos vecinos/as de Renca, pobladores/as que nos sumamos a la resistencia!"
+![imagen](10porcien.jpg)
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. No se identifican representantes pero si la existencia de una vocería.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](1.jpg)
+
 
 **Banderas:**
 
@@ -88,7 +96,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](7comunicado.jpg) | ![imagen]() |
 
 
 ---

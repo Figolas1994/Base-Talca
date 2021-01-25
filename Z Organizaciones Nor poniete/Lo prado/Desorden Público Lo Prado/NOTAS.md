@@ -1,7 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### LPR3
 
-[instagram]()
+# Desorden Público Lo Prado
+
+
+[instagram](https://www.instagram.com/dploprado/
+)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +15,65 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea comunal Lo Prado y Fuerza pobladora Chile
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|800|	683|	41
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   inactiva
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: población Manuel Rodríguez y San Pablo con Neptuno
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, apropiación del espacio publico y promueve la unión y participación vecinal.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### "La juventud se organiza para luchar por la sociedad" Por una sociedad mas equitativa económicamente.
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Realizas protestas ciudadanas como cacerolazos. Pintan murales en la vía publica. Actividades comunitarias como futsal en la calle y ciclos de cine al aire libre.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a jóvenes de población Manuel Rodríguez de lo Prado. Emplaza a autoridades centrales. Equidad económica. Transformación cotidiana de vivir en el barrio.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. No se distinguen representantes.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

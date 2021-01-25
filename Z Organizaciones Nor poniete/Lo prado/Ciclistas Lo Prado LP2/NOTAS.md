@@ -1,65 +1,78 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR9
 
-[instagram]()
-[facebook]()
+# Ciclistas Lo Prado LP2
+
+
+[instagram](https://www.instagram.com/cicletada_loprado/tagged/
+)
+[facebook](https://www.facebook.com/ciclistas.loprado)
 [twitter]()
 <correo@correo.cl>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### No se identifican. 
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Olla común T1 Lo prado, antifacletas, pedaleros estación, Pedal Lo Prado,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1233|	101|	147|
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Mensuales (de 3 a 4 publicaciones) a partir de noviembre del 2020 todos los días.
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Parque Neptuno.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial interesada en el activismo social comunal. Apropiación del espacio publico.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### No mas ciclista muertos, "Evadir pedalear otra forma de luchar" "El pueblo ayuda al pueblo" "La bicicleta es revolución"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### La organización además de convocar cicletadas, realiza talleres básicos de bicicleta y caravanas por el apruebo.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a los ciclistas de la comuna de Lo Prado. Emplazan a la ministra de transporte./ Transformación cotidiana en el uso del espacio publico
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### No se logra distinguir una estructura organizativa. Pero se distinguen reuniones donde la estructura podría ser el asambleísmo.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

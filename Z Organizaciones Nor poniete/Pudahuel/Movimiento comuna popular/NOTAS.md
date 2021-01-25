@@ -1,40 +1,49 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PDU10
 
-[instagram]()
+# Movimiento comuna popular
+
+
+[instagram](https://www.instagram.com/p/CEtmrlHpLPW/
+)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<movimientocomunapopular@gmail.com>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+####  Telefono 569 95116783
+.
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Colectiva perra kiltra, Asamblea Mar de Drake, Resistencia Pudahuel Sur, Plaza pitagora, Pedahuel sur,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|831|	579|	147
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Activa
+ 
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Publicaciones y actividades semanales (de 2 a3) a partir de Marzo mensuales
+
 
 Actividades:
 
@@ -44,22 +53,27 @@ Actividades:
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, participación ciudadana, procesos constituyente, el apoyo mutuo y la apropiación del espacio publico.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### La organización menciona que : "La solidaridad debe ser una de las bases para construir una nueva sociedad, en donde la vida humana valga mucho más que los intereses económicos de cualquier gobierno o patrón. ¡Solo el Pueblo ayuda al Pueblo!"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Muralismo, cabildos para niños, escuela constituyente, serigrafía, conversatorios, operativos de salud: múltiples asesorías como psicologías, huertos, quiroprácticos. Campañas solidarias, campañas de autofinanciamiento para escuela de verano. Escuela de verano: múltiples talleres prácticos. Creación de boletines informativos
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a vecinos y asambleas de Pudahuel sur. Transformación cotidiana de vivir en comunidad y del uso del espacio publico.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo. Se distingue un trabajo por comisiones.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

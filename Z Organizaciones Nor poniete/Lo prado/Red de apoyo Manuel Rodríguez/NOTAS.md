@@ -1,65 +1,76 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR5
 
-[instagram]()
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+# Red de Apoyo Manuel Rodríguez
+
+
+[instagram](https://www.instagram.com/p/B4_K281FFTr/
+)
+
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### Teléfono: 569 36909985
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Conjunto parronal de peralillo, juventud comunista Lo Prado, desorden publico y fuerza popular Chile.
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|364|	280|	92
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Discontinua.
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Mensuales
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Población Manuel Rodríguez
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial solidaria que trabaja en ayuda alimentaria para hacer frente a la crisis sanitaria. Su principal interés es la unión y convivencia vecinal
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Con alegría y organización, hasta vencer la crisis" "Pa´cuidar al empresario nos quitan el pan a diario"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Asambleas populares abiertas. Llamados a marchas/ Acciones solidarias como Ollas comunes
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### se dirige a vecinos y vecinas de población Manuel Rodríguez. Transformación de cotidiana de vivir en el barrio.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Post estallido se distingue el asambleísmo. En periodo de pandemia predomina el trabajo por comisiones.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

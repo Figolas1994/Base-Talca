@@ -1,33 +1,42 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: LPR2
 
-[instagram]()
+# Olla común T1 Lo Prado
+
+
+[instagram](https://www.instagram.com/ollacomunt1.lp2/
+)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<ollacomunt1.lp2@gmail.com>
+>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+####  / Teléfono 97210144
+
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Cicletada lo Prado, Asamblea comunal Lo Prado, Granitos de mostazas, Olla común Che Guevara,
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|412|	373|	135
+0| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continua desde el inicio de la crisis socio sanitaria.
+
 
 * Primera Publicación IG
 
@@ -40,26 +49,29 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Puerto Rico 8099, Lo Prado
+
 
 ---
 ### Describir temas de interés y/o trabajo
-
+Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durante la crisis socio sanitaria.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Olla común y campañas de acopio de alimentos para la olla
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+####
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+####  Horizontalidad. Se distingue un trabajo por comisiones
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

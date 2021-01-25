@@ -52,7 +52,10 @@ Organizaciones territorio y unión vecinal.
 ---
 ### ¿Que se hace?
 #### conversatorios vecinales y almuerzos comunitarios.
-
+![imagen](cabil.jpg)
+![imagen](comida.jpg)
+![imagen](vela.jpg)
+!
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Vecinos y vecinas del sector Huamachuco interesado en competir opinión y unirse al debate nacional post estallido.
@@ -65,7 +68,7 @@ Organizaciones territorio y unión vecinal.
 
 **Iconos:**
 
-**Banderas:**
+**Banderas:** ![imagen](asesi.jpg)
 
 **Diseño estético:**
 

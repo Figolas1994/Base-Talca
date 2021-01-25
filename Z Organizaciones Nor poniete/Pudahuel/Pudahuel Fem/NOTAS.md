@@ -1,10 +1,10 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PDU8
+# Pudahuel Fem
 
-[instagram]()
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+
+[instagram](https://www.instagram.com/pedalhuelfem/
+)
+
 ---
 
 ### Representantes
@@ -12,54 +12,65 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Asamblea Popular de Pudahuel, Asamblea Mar de Drake, Pudahuel, Acción Furtar, Colectiva Perra Kiltra, Maipú pedalea, Ciclosororas, Plaza Pitágoras.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1706|	553|	84
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Discontinua. Se activo en el mes de mes de octubre.
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Semanales (de 3 a 4)
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Parque Claudio arrau con tte cruz a pasos del metro barrancas
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Apropiación del espacio publico. Ciclismo urbano, organización y articulación territorial, apoyo mutuo
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+####  "Que muera Piñera y no mi compañera" "PORQUE SOLO EL PUEBLO AYUDA AL PUEBLO, NOSOTRAS NOS CUIDAMOS ENTRE NOSOTRAS"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Asambleas abiertas de mujeres ciclista. Cicletadas. Ayuda solidaria como recolección de dinero, alimentos y útiles de aseo.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Mujeres ciclistas de Pudahuel. Transformación cotidiana en el uso del espacio publico. No mas ciclistas muertos/ Emplazan a la ministra de transporte
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. No se distingue una estructura organizativa clara.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

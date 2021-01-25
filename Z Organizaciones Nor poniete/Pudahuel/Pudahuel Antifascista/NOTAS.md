@@ -1,7 +1,9 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: PDU3
+# Pudahuel Antifascista
 
-[instagram]()
+
+[instagram](https://www.instagram.com/p/CFw8mShhE_c/
+)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -12,54 +14,67 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Acción furtar, colectivo Loyuyo
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades. Mural de fotografías de acciones concretadas.
+|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|284|	181|	108
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**  Continua desde 2020
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Mensual. Semanal (de 2 a 4) a partir de octubre.
 
-Actividades:
+
+Actividades: Mensual. Semanal (de 2 a 4) a partir de octubre.
+
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Población Monseñor Manuel Larraín.
+
 
 ---
 ### Describir temas de interés y/o trabajo
+Organización territorial, memoria popular y apropiación del espacio publico.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### 
+Fin al Estado mercantil. " Solo el pueblo ayuda al pueblo"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Actos conmemorativos Jornadas de Muralismo , tocatas, feria de las pulgas.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Se dirige a Jóvenes antifascistas de Pudahuel. Reivindicación del vivir en comunidad.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Horizontalidad. No se distingue una estructura organizativa clara.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

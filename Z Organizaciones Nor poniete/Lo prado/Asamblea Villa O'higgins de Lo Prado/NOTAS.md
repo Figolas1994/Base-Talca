@@ -1,8 +1,11 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### LPR1
 
-[instagram]()
-[facebook]()
+# Asamblea Villa O'higgins de Lo Prado
+
+
+[instagram](https://www.instagram.com/p/CHOIb-ypFVx/
+)
+[facebook](https://www.facebook.com/asambleavillaohigginsloprado)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -12,54 +15,65 @@
 
 ---
 ### Interacciones frecuentes
-#### (listar otras organizaciones que habitualmente)
+#### Cordón poniente, colectivo Llama, Pudahuel, cordón Grecia.
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y actividades.|Difusión de información y actividades.
+|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|540|	342|	55|
+| 0
 
 ---
 
-* **Actividad:**   
+* **Actividad:**   Continuas
+
 
 * Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones:Semanales de 1 a 2. Se intensificaron a partir del inicio de la crisis hasta el mes de octubre.
+
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad:
+* Sector de la comununa/ciudad: Villa O´Higgins
+Lo Prado
 
 ---
 ### Describir temas de interés y/o trabajo
+Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de redes comunitarias, actividades solidarias y político culturales.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### Que todos los sectores de la comuna se organicen en sus territorios! ¡Todo el poder a las asambleas o nada! No mas sename, "Solo el pueblo ayuda al pueblo"
+
 
 ---
 ### ¿Que se hace?
-#### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+#### Gestor de asambleas abiertas. Protestas como cacerolazos, actos conmemorativos. Acciones solidarias como Ollas comunes, acopio de alimento y útiles de aseo.
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
-#### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+#### Dirigida a vecinos y vecinas del territorio. Organizaciones del territorio norponiente. Emplaza a diputados del distrito por no cumplir deberes.
+
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+#### Asambleísmo y horizontalidad.
+
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
