@@ -53,21 +53,31 @@ Lo Prado
 
 ---
 ### Describir temas de interés y/o trabajo
-Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de redes comunitarias, actividades solidarias y político culturales.
+Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de redes comunitarias, soberanía alimentaria, actividades solidarias y político culturales.
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### Que todos los sectores de la comuna se organicen en sus territorios! ¡Todo el poder a las asambleas o nada! No mas sename, "Solo el pueblo ayuda al pueblo"
+![imagen](ideal.jpg)
 
 
 ---
 ### ¿Que se hace?
 #### Gestor de asambleas abiertas. Protestas como cacerolazos, actos conmemorativos. Acciones solidarias como Ollas comunes, acopio de alimento y útiles de aseo.
 
+![imagen](conver.jpg)
+![imagen](conversa.jpg)
+![imagen](huerta.jpg)
+![imagen](joga.jpg)
+![imagen](olla.jpg)
+![imagen](solida.jpg)
+![imagen](solida2.jpg)
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Dirigida a vecinos y vecinas del territorio. Organizaciones del territorio norponiente. Emplaza a diputados del distrito por no cumplir deberes.
+![imagen](deman.jpg)
 
 
 ---
@@ -79,8 +89,8 @@ Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de re
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-
-**Banderas:**
+![imagen](mapu.jpg)
+**Banderas:** ![imagen](cartel.jpg)
 
 **Diseño estético:**
 
@@ -93,7 +103,7 @@ Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de re
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](municiio.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -102,8 +112,8 @@ Organizaciones territorial y de apoyo mutuo. Trabaja en el fortalecimiento de re
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](pacos.jpg) ![imagen](pacos2.jpg)| ![imagen]() |
 
 
----
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+# Memoria 
+![imagen](memo.jpg)
