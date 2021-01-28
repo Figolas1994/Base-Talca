@@ -38,7 +38,7 @@
 * **Actividad:**   Continua desde el inicio de la crisis socio sanitaria.
 
 
-* Primera Publicación IG
+* Primera Publicación IG 23 DE MAYO DE 2020
 
 ---
 ### Frecuencia de publicación.

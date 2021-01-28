@@ -5,9 +5,8 @@
 
 [instagram](https://www.instagram.com/vec.mardedrake/
 )
-[facebook]()
-[twitter]()
-<correo@correo.cl>
+[facebook](https://www.facebook.com/Mardedrake)
+
 ---
 
 ### Representantes
@@ -36,7 +35,7 @@
 
 * **Actividad:**   Continua. 
 
-* Primera Publicación IG
+* Primera Publicación IG 12 DE DICIEMBRE DE 2019
 
 ---
 ### Frecuencia de publicación.
@@ -64,10 +63,20 @@ Actividades:
 ### ¿Que se hace?
 #### Múltiples acciones colectivas como Asambleas abiertas, jornadas de actividades barriales como pasacalles, tocatas, huertos comunitarios. Llamados a protestas, banderazos. Por otro lado acciones solidarias como ollas comunes, sanitación de pasajes, rifas, entre otros.
 
+![imagen](acopio.jpg)
+![imagen](cabil.jpg)
+![imagen](encuesta.jpg)
+![imagen](feria.jpg)
+![imagen](huertos.jpg)
+![imagen](saniti.jpg)
+![imagen](saniti2.jpg)
+![imagen](simulacro.jpg)
+![imagen](memo.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Dirigido a vecinos y vecinas de Pudahuel sur. Transformación cotidiana del vivir en el barrio. Emplaza a autoridades centrales. No mas AFP
+![imagen](demand.jpg)
 
 
 ---
@@ -78,7 +87,8 @@ Actividades:
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg)
+![imagen](catrillanca.jpg)
 
 **Banderas:**
 
@@ -93,7 +103,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](estado.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

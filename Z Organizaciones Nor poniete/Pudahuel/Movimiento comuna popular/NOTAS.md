@@ -60,10 +60,15 @@ Organización territorial, participación ciudadana, procesos constituyente, el 
 #### La organización menciona que : "La solidaridad debe ser una de las bases para construir una nueva sociedad, en donde la vida humana valga mucho más que los intereses económicos de cualquier gobierno o patrón. ¡Solo el Pueblo ayuda al Pueblo!"
 
 
+
 ---
 ### ¿Que se hace?
 #### Muralismo, cabildos para niños, escuela constituyente, serigrafía, conversatorios, operativos de salud: múltiples asesorías como psicologías, huertos, quiroprácticos. Campañas solidarias, campañas de autofinanciamiento para escuela de verano. Escuela de verano: múltiples talleres prácticos. Creación de boletines informativos
-
+![imagen](soli.png)
+![imagen](escuela.png)
+![imagen](mov3.png)
+![imagen](movi2.png)
+![imagen](movimiento.png)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -82,7 +87,8 @@ Organización territorial, participación ciudadana, procesos constituyente, el 
 
 **Banderas:**
 
-**Diseño estético:**
+**Diseño estético:** ![imagen](up.png)
+
 
 > Párrafo tipo cita 
 
@@ -93,7 +99,7 @@ Organización territorial, participación ciudadana, procesos constituyente, el 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](estado1.png) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -102,8 +108,10 @@ Organización territorial, participación ciudadana, procesos constituyente, el 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](poli1.png) | ![imagen]() |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+# Boletin 
+![imagen](boletin1.png)
+![imagen](boletin2.png)

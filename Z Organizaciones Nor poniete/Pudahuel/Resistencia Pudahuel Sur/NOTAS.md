@@ -64,6 +64,14 @@ Organización territorial . Sus interese son la protesta en contra el sistema po
 Actos políticos conmemorativos. Creación de Boletines informativos. Jornadas de protestas, cacerolazos, cortes calles, rayado de murales en la vía publica. Acciones solidarias como ollas comunes, campañas solidarias de recolección de dinero.
 Acopio aliementos para perros
 
+![imagen](memoria.jpg)
+![imagen](mural.jpg)
+![imagen](solida.jpg)
+
+![imagen](taller.jpg)
+![imagen](tocata.jpg)
+
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Emplaza medidas del gobierno en la crisis socio sanitaria.
@@ -77,9 +85,13 @@ Acopio aliementos para perros
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](logo.jpg)
+![imagen](logo2.jpg)
+![imagen](mapuche.jpg)
+![imagen](neco.jpg)
 
 **Banderas:**
-
+![imagen](protes.jpg)
 **Diseño estético:**
 
 > Párrafo tipo cita 
@@ -100,8 +112,11 @@ Acopio aliementos para perros
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](polis.jpg) | ![imagen]() |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+## VOLETINES
+
+![imagen](voletin.jpg)
+![imagen](VOLETIN2.jpg)

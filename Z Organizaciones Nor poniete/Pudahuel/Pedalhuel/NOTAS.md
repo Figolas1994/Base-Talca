@@ -32,7 +32,7 @@
 
 * **Actividad:** Continua
 
-* Primera Publicación IG
+* Primera Publicación IG 23 DE NOVIEMBRE DE 2019
 
 ---
 ### Frecuencia de publicación.
@@ -61,10 +61,13 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 ### ¿Que se hace?
 #### Asambleas abiertas de ciclista. Protestas cicletadas, pega de lienzos y actos conmemorativos. Ayuda solidaria como recolección de dinero, alimentos y útiles de aseo.
 
-
+![imagen](cicletada.jpg)
+![imagen](velaton.jpg)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Vecinos y vecinas ciclistas de Pudahuel. /Transformación cotidiana en el uso del espacio publico
+![imagen](demanda.jpg)
+
 
 
 ---
@@ -74,9 +77,10 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg)
+![imagen](lgtb.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](bandera.jpg)
 
 **Diseño estético:**
 
@@ -98,8 +102,13 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+
+![imagen](pacos.jpg)
+|La corrupción policial es un tipo de mala praxis en las policías, frecuentemente constitutiva de delito, consistente en el uso indebido de sus atribuciones, recursos o información con el objeto de obtener provecho económico o de otro tipo, así como avances en la carrera profesional e incluso fines políticos. Wikipedia. Carabineros de Chile: Fueron creados por Carlos Ibañez del Campo, sujeto que fue DOS veces golpista, DOS veces dictador, DOS veces traidor (Quizás más), fue presidente electo “democráticamente” debido a que eliminó a su competencia directa, admirador de Mussolini y se llaman carabineros como el organismo de seguridad del fascismo italiano.
+
+#27AbrilNadaQueCelebrar | ![imagen]() |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### 
+![imagen](protocolocovid.jpg)

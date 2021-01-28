@@ -36,7 +36,7 @@
 * **Actividad:**   Continuas
 
 
-* Primera Publicación IG
+* Primera Publicación IG 6 DE DICIEMBRE DE 2019
 
 ---
 ### Frecuencia de publicación.

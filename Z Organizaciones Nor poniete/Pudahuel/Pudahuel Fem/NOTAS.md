@@ -1,5 +1,5 @@
 #### FOLIO: PDU8
-# Pudahuel Fem
+# Pedahuel Fem
 
 
 [instagram](https://www.instagram.com/pedalhuelfem/
@@ -33,7 +33,7 @@
 * **Actividad:**  Discontinua. Se activo en el mes de mes de octubre.
 
 
-* Primera Publicación IG
+* Primera Publicación IG 11 DE ABRIL DE 2020
 
 ---
 ### Frecuencia de publicación.
@@ -61,10 +61,16 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 ### ¿Que se hace?
 #### Asambleas abiertas de mujeres ciclista. Cicletadas. Ayuda solidaria como recolección de dinero, alimentos y útiles de aseo.
 
+![imagen](asamble.jpg)
+![imagen](concurso.jpg)
+![imagen](solida.jpg)
+
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Mujeres ciclistas de Pudahuel. Transformación cotidiana en el uso del espacio publico. No mas ciclistas muertos/ Emplazan a la ministra de transporte
+![imagen](emplaza.jpg)
 
 
 ---
@@ -75,11 +81,14 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
-
+**Iconos:** ![imagen](loco.jpg)
+![imagen](logo2.jpg)
+![imagen](usa.jpg)
+)
 **Banderas:**
-
+![imagen](lienzo.jpg)
 **Diseño estético:**
+![imagen](nopilitico.jpg)
 
 > Párrafo tipo cita 
 
@@ -99,7 +108,7 @@ Apropiación del espacio publico. Ciclismo urbano, organización y articulación
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](paco.jpg)| ![imagen]() |
 
 
 ---

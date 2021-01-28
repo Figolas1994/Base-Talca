@@ -57,10 +57,18 @@ Organización territorial, apropiación del espacio publico y apoyo mutuo. Traba
 ### Describir la imagen ideal por la cual se trabaja.
 #### "Solo el pueblo ayuda al pueblo" Ni perdón ni olvido" "hasta que arda tu herencia"
 
+![imagen](mural.jpg)
+
 
 ---
 ### ¿Que se hace?
 #### Asambleas abiertas. Generan redes de economía local como feria de las pulgas. Acciones solidarias, funcionan como central de apropio de alimentos y útiles de aseo. Actividades vecinales como la celebración del día del niño.
+
+![imagen](acopio.jpg)
+![imagen](evento.jpg)
+![imagen](feria.jpg)
+![imagen](plebisito.jpg)
+![imagen](reunion.jpg)
 
 
 ---
@@ -76,9 +84,9 @@ Organización territorial, apropiación del espacio publico y apoyo mutuo. Traba
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](lienzo.jpg)
 
 **Diseño estético:**
 
