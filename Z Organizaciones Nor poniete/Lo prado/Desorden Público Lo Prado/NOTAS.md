@@ -36,7 +36,7 @@
 * **Actividad:**   inactiva
 
 
-* Primera Publicación IG
+* Primera Publicación IG 3 DE AGOSTO DE 2019
 
 ---
 ### Frecuencia de publicación.
@@ -63,9 +63,11 @@ Organización territorial, apropiación del espacio publico y promueve la unión
 ---
 ### ¿Que se hace?
 #### Realizas protestas ciudadanas como cacerolazos. Pintan murales en la vía publica. Actividades comunitarias como futsal en la calle y ciclos de cine al aire libre.
-
-
----
+![imagen](cine.jpg)
+![imagen](futbol.jpg)
+![imagen](mural.jpg)
+![imagen](olla.jpg)
+![imagen](tocata.jpg)
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Se dirige a jóvenes de población Manuel Rodríguez de lo Prado. Emplaza a autoridades centrales. Equidad económica. Transformación cotidiana de vivir en el barrio.
 
@@ -78,11 +80,12 @@ Organización territorial, apropiación del espacio publico y promueve la unión
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](lienz.jpg)
+![imagen](lienzo2.jpg)
 
-**Diseño estético:**
+**Diseño estético:** ![imagen](mural2.jpg)
 
 > Párrafo tipo cita 
 

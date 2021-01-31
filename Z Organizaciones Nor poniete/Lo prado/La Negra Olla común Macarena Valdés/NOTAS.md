@@ -37,7 +37,7 @@
 * **Actividad:**  Continua.
 
 
-* Primera Publicación IG
+* Primera Publicación IG 8 DE JULIO DE 2020
 
 ---
 ### Frecuencia de publicación.
@@ -55,6 +55,9 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 Organización territorial solidaria. Enfocada en la alimentación ,el apoyo mutuo y el proceso constituyente.
+![imagen](comoayudar.jpg)
+
+![imagen](aprueb.jpg)
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -64,11 +67,12 @@ Organización territorial solidaria. Enfocada en la alimentación ,el apoyo mutu
 ---
 ### ¿Que se hace?
 #### Realizan una olla común como también ayudan a realizar el Registro social Hogares, IFE y apoyo para retiro 10%.
-
-
+![imagen](olla1.jpg)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### dirigida a vecinos y vecinas de lo prado. En especial adulto mayores.
+
+![imagen](macarena.jpg)
 
 
 ---
@@ -79,7 +83,7 @@ Organización territorial solidaria. Enfocada en la alimentación ,el apoyo mutu
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](justicia.jpg)![imagen](mapu.jpg)
 
 **Banderas:**
 
@@ -107,4 +111,8 @@ Organización territorial solidaria. Enfocada en la alimentación ,el apoyo mutu
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### 
+Presentación olla común [Link instagram](https://www.instagram.com/p/CCYXIHaJW5L/)
+
+Ayuda a adultos mayores [Link instagram](https://www.instagram.com/p/CDbxbEyphwn/)
+

@@ -37,7 +37,8 @@
 * **Actividad:**   Continuas
 
 
-* Primera Publicación IG
+* Primera Publicación IG 14 DE JUNIO DE 2020
+
 
 ---
 ### Frecuencia de publicación.
@@ -56,7 +57,7 @@ Actividades: Día por medio
 ---
 ### Describir temas de interés y/o trabajo
 Organización territorio solidaria que nace para cubrir necesidad alimenticias. Apoyo mutuo , colaboración entre vecinos y organizaciones.
-
+![imagen](apruebo.jpg)
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### "Solo el pueblo ayuda al pueblo" En Chile hay racismo #Yotambienllevosangremapuche.
@@ -66,10 +67,13 @@ Organización territorio solidaria que nace para cubrir necesidad alimenticias. 
 ### ¿Que se hace?
 #### Ollas comunes y actos conmemorativos como por ejemplo los 50 años del campamento Che Guevara
 
+![imagen](campaña.jpg)
+![imagen](olla1.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contedirigidoncioso o con lo político mas prefigurativo
 #### Difigido a vecinos y vecinas de la población Che Guevara
+![imagen](libertamauri.jpg)
 
 
 ---
@@ -80,11 +84,11 @@ Organización territorio solidaria que nace para cubrir necesidad alimenticias. 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg) ![imagen](allende.jpg) ![imagen](mapu.jpg) ![imagen](neco.jpg)
 
-**Banderas:**
+**Banderas:** 
 
-**Diseño estético:**
+**Diseño estético:** ![imagen](olladiseño.jpg)
 
 > Párrafo tipo cita 
 
@@ -95,7 +99,7 @@ Organización territorio solidaria que nace para cubrir necesidad alimenticias. 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|No podemos permanecer indiferentes ante los #pacosinfiltrados en ollas, no solo entorpecen nuestro funcionamiento, además sapean y buscan al #enemigopoderosoeimplacable en un espacio donde nos organizamos como población ante el nulo apoyo del gobierno y el municipio.| ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -104,8 +108,9 @@ Organización territorio solidaria que nace para cubrir necesidad alimenticias. 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen](capo.jpg)| ![imagen]() |
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Caron Cariola (https://www.instagram.com/p/CESgHAAJCsr)
+### Ana Tijoux  (https://www.instagram.com/p/CHGCuRtJgLX/)

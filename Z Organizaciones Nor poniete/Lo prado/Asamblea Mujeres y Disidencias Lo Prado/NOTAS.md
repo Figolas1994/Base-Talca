@@ -36,7 +36,7 @@
 * **Actividad:**  Inactiva
 
 
-* Primera Publicación IG
+* Primera Publicación IG 28 DE NOVIEMBRE DE 2019
 
 ---
 ### Frecuencia de publicación.
@@ -54,18 +54,22 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 Organización territorial y feminismo. Trabaja en actividades de apropiación del espacio publico y auto educación.
-
+![imagen](aborto.jpg)
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### EL ESTADO OPRESOR ES UN MACHO VIOLADOR ¡RECUPEREMOS LA CALLE Y LA ORGANIZACION BARRIAL! El futuro será feminista o no será.
 
 ### ¿Que se hace?
 #### Múltiples acciones colectivas como intervenciones artísticas en la vía publica. Reuniones, consultas ciudadanas, conversatorios feministas pro aborto, ciclos de documentales. Acciones solidarias como acopio de alimentos. .
-
+![imagen](asamblea.jpg)
+![imagen](once.jpg)
+![imagen](solida.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### dirigida a mujeres y disidencias de Lo Prado. No mas violaciones/ En pandemia las mujeres y las niñas trans abortamos.
+![imagen](busodio.jpg)
+![imagen](racismo.jpg)
 
 
 ---
@@ -76,11 +80,12 @@ Organización territorial y feminismo. Trabaja en actividades de apropiación de
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](mapu.jpg)
+![imagen](campilla.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](lienzo.jpg)
 
-**Diseño estético:**
+**Diseño estético:** ![imagen](diversi.jpg)
 
 > Párrafo tipo cita 
 
@@ -91,7 +96,7 @@ Organización territorial y feminismo. Trabaja en actividades de apropiación de
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|EL ESTADO OPRESOR ES UN MACHO VIOLADOR | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

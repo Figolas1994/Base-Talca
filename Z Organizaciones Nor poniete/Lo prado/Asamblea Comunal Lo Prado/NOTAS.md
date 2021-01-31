@@ -33,7 +33,8 @@
 
 * **Actividad:**   Continua
 
-* Primera Publicación IG
+* Primera Publicación IG 10 DE DICIEMBRE DE 2019
+
 
 ---
 ### Frecuencia de publicación.
@@ -61,7 +62,11 @@ Organización territorial sus intereses son el proceso constituyente y la partic
 ### ¿Que se hace?
 #### Conversatorios y charlas referente al proceso constituyente. Realizan Actividades culturales y de participación ciudadana como Jornadas de conversatorios seguido de micrófonos abiertos (musical) actos conmemorativos hacia los presos políticos y por la muerte de Camilo Cariblanca. Realizan completadas para reunir fondos para la asamblea.
 
-
+![imagen](cabil.jpg)
+![imagen](charla.jpg)
+![imagen](conversa.jpg)
+![imagen](educa.jpg)
+![imagen](olla.jpg)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### Vecinos y vecinas interesados en el procesos constituyente. Bajar la información a las bases.
@@ -75,9 +80,13 @@ Organización territorial sus intereses son el proceso constituyente y la partic
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg) 
+![imagen](neco.jpg)
+![imagen](mapu.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](lienzo.jpg)
+![imagen](lienzo2.jpg)
+![imagen](che.jpg)
 
 **Diseño estético:**
 
@@ -103,4 +112,8 @@ Organización territorial sus intereses son el proceso constituyente y la partic
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### 
+Manuel Stingo
+(https://www.instagram.com/p/B6_yTw9pAtN/)
+Tocata
+(https://www.instagram.com/p/B7zC_19pUDz/)

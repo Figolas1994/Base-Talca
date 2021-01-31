@@ -33,7 +33,7 @@
 * **Actividad:**   Discontinua.
 
 
-* Primera Publicación IG
+* Primera Publicación IG 18 DE OCTUBRE DE 2018
 
 ---
 ### Frecuencia de publicación.
@@ -61,6 +61,10 @@ Organización territorial solidaria que trabaja en ayuda alimentaria para hacer 
 ### ¿Que se hace?
 #### Asambleas populares abiertas. Llamados a marchas/ Acciones solidarias como Ollas comunes
 
+![imagen](asamblea.jpg)
+![imagen](campaña.jpg)
+![imagen](mural.jpg)
+![imagen](taller.jpg)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -75,11 +79,11 @@ Organización territorial solidaria que trabaja en ayuda alimentaria para hacer 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** ![imagen](logo.jpg)
 
-**Banderas:**
+**Banderas:** ![imagen](lienzo.jpg) ![imagen](lienzo2.jpg) ![imagen](lienzo3.jpg)
 
-**Diseño estético:**
+**Diseño estético:** ![imagen](diseño.jpg) ![imagen](diseño2.jpg) ![imagen](diseño3.jpg)
 
 > Párrafo tipo cita 
 

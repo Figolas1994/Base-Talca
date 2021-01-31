@@ -17,7 +17,9 @@
 
 ---
 ### Interacciones frecuentes
-#### Cicletada lo Prado, Asamblea comunal Lo Prado, Granitos de mostazas, Olla común Che Guevara,
+#### Cicletada lo Prado, Asamblea comunal Lo Prado, Granitos de mostazas, Olla común Che Guevara.
+
+![imagen](seguridad.jpg)
 
 
 ### Redes sociales
@@ -54,14 +56,18 @@ Actividades:
 
 ---
 ### Describir temas de interés y/o trabajo
-Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durante la crisis socio sanitaria.
+####  Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durante la crisis socio sanitaria.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)
+#### 
+![imagen](ideal.jpg)
 
 ---
 ### ¿Que se hace?
 #### Olla común y campañas de acopio de alimentos para la olla
+![imagen](cocina.jpg)
+![imagen](olla.jpg)
+
 
 
 ---
@@ -76,9 +82,9 @@ Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durant
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
-**Iconos:**
+**Iconos:** 
 
-**Banderas:**
+**Banderas:** ![imagen](lienzo.jpg)
 
 **Diseño estético:**
 
@@ -91,7 +97,7 @@ Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durant
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](gob.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -104,4 +110,7 @@ Organización solidaria y de apoyo mutuo. Trabaja para cubrir necesidades durant
 
 
 ---
-### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+### Video 
+[Link video instagram](https://www.instagram.com/p/CBOE8VjlPIO/)
+
+[Link video instagram](https://www.instagram.com/p/CBqd2jrJXdW/)

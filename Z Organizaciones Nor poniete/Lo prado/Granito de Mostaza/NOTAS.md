@@ -37,7 +37,7 @@
 * **Actividad:**   Continua
 
 
-* Primera Publicación IG
+* Primera Publicación IG 20 DE MAYO DE 2020
 
 ---
 ### Frecuencia de publicación.
@@ -61,10 +61,15 @@ Organizaciones solidaria interesada en el apoyo mutuo.
 #### "Queremos ser agentes de cambio con fin de hacer justicia social TODOS JUNTXS PODEMOS CREAR UNA NUEVA VERSIÓN DE LA SOCIEDAD QUE QUEREMOS ""
 MOTIVATE A SENTIR Y A SERVIR"" "EN TIEMPOS DIFÍCILES,EL APOYO ALIVIABA NUESTRA CARGA"
 
-
+![imagen](tipode.jpg)
 ---
 ### ¿Que se hace?
 #### La organización realiza ollas comunes y constantes campañas de recolección de alimentos y útiles de aseos para entregar a familias de la comuna.
+![imagen](almuer.jpg)
+![imagen](anima.jpg)
+![imagen](campaña.jpg)
+![imagen](olla.jpg)
+![imagen](soli1.jpg)
 
 
 ---
@@ -94,7 +99,13 @@ MOTIVATE A SENTIR Y A SERVIR"" "EN TIEMPOS DIFÍCILES,EL APOYO ALIVIABA NUESTRA 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|El gobierno no entregará cajas pero @granitos_de_mostazas si apoya nuestra cuarta campaña para seguir apoyando a nuestros vecinxs , porque no queremos más humillaciones, porque no queremos que sigan jugando con la gente, sabemos la situación de nuestra comuna y del país.
+No vamos a parar , vamos a seguir dando todo , vamos a seguir luchando , que las cacerolas sigan sonando fuertes , no nos rendiremos.
+Granitos de mostazas esta dia a dia con el dolor de las personas, dia a día con casos donde la dignidad es pisoteada .
+Estamos para brindar y dar la mano a quien lo necesite .
+SOLO EL PUEBLO AYUDA AL PUEBLO🤲
+Seguiremos con la olla común 3 veces a la semana y la once comunitaria, seguiremos con las entregas de cajas , buscaremos y buscaremos la manera de seguir.
+Prohibido rendirse porque esto lo hacemos todos!!! | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
